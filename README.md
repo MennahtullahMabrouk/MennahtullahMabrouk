@@ -20,3 +20,22 @@ A Articles 📝</p>
 <img src="https://64.media.tumblr.com/443cf0325430e2e067f13ba4a6372f78/tumblr_mlarbsHxIG1rvkw6no1_500.gifv" alt="Animation" />
 
 
+<div style="position: relative;">
+  <div style="position: absolute; left: 0;">
+    🐍
+  </div>
+</div>
+
+<style>
+  @keyframes snake {
+    0% { left: 0; }
+    100% { left: 100%; }
+  }
+
+  div {
+    animation-name: snake;
+    animation-duration: 5s;
+    animation-iteration-count: infinite;
+    animation-timing-function: linear;
+  }
+</style>
