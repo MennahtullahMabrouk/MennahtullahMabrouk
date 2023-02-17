@@ -18,3 +18,59 @@ A Articles 📝</p>
 
 ### Keep Studying, Coding Never GiveUp
 <img src="https://64.media.tumblr.com/443cf0325430e2e067f13ba4a6372f78/tumblr_mlarbsHxIG1rvkw6no1_500.gifv" alt="Animation" />
+
+
+|        🐍      |
+|                |
+|                |
+|                |
+|                |
+|                |
+|                |
+|                |
+|                |
+|                |
+|                |
+|                |
+|                |
+|                |
+|                |
+|                |
+|                |
+|                |
+|                |
+|                |
+|                |
+|                |
+|                |
+|                |
+
+|         🐍     |
+|                |
+|                |
+|                |
+|                |
+|                |
+|                |
+|                |
+|                |
+|                |
+|                |
+|                |
+|                |
+|                |
+|                |
+|                |
+|                |
+|                |
+|                |
+|                |
+|                |
+|                |
+|                |
+|                |
+
+|          🐍    |
+|                |
+|                |
+|                |
