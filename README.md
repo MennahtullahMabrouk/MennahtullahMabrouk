@@ -1,6 +1,6 @@
 ## Mennahtullah Mabrouk a sophomore Computer Science student at E-JUST 
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-Wisteria?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mennahtullah-sameh) [![Telegram](https://img.shields.io/badge/-Telegram-Wisteria?style=for-the-badge&logo=Telegram&logoColor=white)](https://t.me/Mennah5794)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-Royal purple?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mennahtullah-sameh) [![Telegram](https://img.shields.io/badge/-Telegram-Royal purple?style=for-the-badge&logo=Telegram&logoColor=white)](https://t.me/Mennah5794)
 
 
   
