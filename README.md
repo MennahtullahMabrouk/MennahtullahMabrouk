@@ -3,7 +3,7 @@
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-purple?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mennahtullah-sameh)
 
   
-<h2 style="margin-top: 0">SEPA</h2>
+### SEPA
 <p style="margin-top: 0">S Serotonin 👩‍🔬<br>
 E Endorphins 🧬<br>
 P Programming, Productivity 💻💪🏻<br>
