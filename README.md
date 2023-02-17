@@ -5,4 +5,5 @@
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-purple?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mennahtullah-sameh) [![YouTube](https://img.shields.io/badge/-YouTube-purple?style=for-the-badge&logo=youtube)](https://youtube.com/@sepa5794)  [![Telegram](https://img.shields.io/badge/-Telegram-purple?style=for-the-badge&logo=Telegram&logoColor=white)](https://t.me/SEPAchannel)
 
-<video src="https://example.com/animation.mp4" controls></video>
+
+<img src="https://media.tenor.com/-jncD6Ey3CQAAAAS/studying-anime.gif" alt="Animation" />
