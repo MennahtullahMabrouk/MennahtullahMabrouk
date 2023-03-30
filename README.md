@@ -11,7 +11,7 @@ P Programming, Productivity 💻💪🏻<br>
 A Articles 📝</p>
 
 
-[![YouTube](https://img.shields.io/badge/-YouTube-purple?style=for-the-badge&logo=youtube)](https://youtube.com/@sepa5794)  [![Telegram](https://img.shields.io/badge/-Telegram-purple?style=for-the-badge&logo=Telegram&logoColor=white)](https://t.me/SEPAchannel)
+[![YouTube](https://img.shields.io/badge/-YouTube-purple?style=for-the-badge&logo=youtube)](https://youtube.com/@sepa5794)  [![Telegram](https://img.shields.io/badge/-Channel-purple?style=for-the-badge&logo=Telegram&logoColor=white)](https://t.me/SEPAchannel)
 
 
 
