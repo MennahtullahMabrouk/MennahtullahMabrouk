@@ -34,8 +34,8 @@ A Articles 📝</p>
 ![C++](https://img.shields.io/badge/c++-05122A?style=for-the-badge&logo=c%2B%2B&logoColor=cyan)&nbsp;
 ![C#](https://img.shields.io/badge/c%23-05122A?style=for-the-badge&logo=c-sharp&logoColor=green)&nbsp;
 
-<a href="https://komarev.com/ghpvc/?username=mennahmabrouk&style=for-the-badge">
-    <img src="https://komarev.com/ghpvc/?username=mennahmabrouk&style=for-the-badge">
+<a href="https://komarev.com/ghpvc/?username=mennahmabrouk&style=for-the-badge&color=green">
+    <img src="https://komarev.com/ghpvc/?username=mennahmabrouk&style=for-the-badge&color=green">
 </a>
 
 
