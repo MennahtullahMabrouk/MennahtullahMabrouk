@@ -25,9 +25,6 @@ A Articles 📝</p>
 ### 🛠 Tech Stack
 <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=mennahmabrouk&show_icons=true&locale=en&layout=compact&theme=radical" alt="Used Languages" />
 <br>
-<a href="https://komarev.com/ghpvc/?username=mennahmabrouk&style=for-the-badge">
-    <img src="https://komarev.com/ghpvc/?username=mennahmabrouk&style=for-the-badge">
-</a>
 
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
@@ -35,5 +32,10 @@ A Articles 📝</p>
 ![Jupyter Notebook](https://img.shields.io/badge/jupyter-05122A?style=for-the-badge&logo=jupyter&logoColor=Orange)&nbsp;
 ![C++](https://img.shields.io/badge/c++-05122A?style=for-the-badge&logo=c%2B%2B&logoColor=cyan)&nbsp;
 ![C#](https://img.shields.io/badge/c%23-05122A?style=for-the-badge&logo=c-sharp&logoColor=green)&nbsp;
+
+<a href="https://komarev.com/ghpvc/?username=mennahmabrouk&style=for-the-badge">
+    <img src="https://komarev.com/ghpvc/?username=mennahmabrouk&style=for-the-badge">
+</a>
+
 
 
