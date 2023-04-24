@@ -1,5 +1,5 @@
 ## Mennahtullah Mabrouk <img src="https://media.tenor.com/NR-Kr20l4d4AAAAi/anime-hi.gif" width="50">
-#### As a second-year undergraduate student, I have developed a solid understanding of the basics of machine learning, bioinformatics, and Python programming language, With this knowledge, I am well-equipped to tackle more advanced concepts in these fields and apply them to real-world problems.
+#### I am a second-year undergraduate student with a strong foundation in Python programming language, machine learning basics, and bioinformatics. I have practical experience working on projects that have helped me develop my skills further. Looking to continue learning and applying my knowledge to real-world problems.
 
 
 <p align="center">
