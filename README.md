@@ -9,7 +9,7 @@
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Study%20Hard;Deep%20Learning;&font=Fira%20Code&center=true&width=440&height=45&color=bd7dbd&vCenter=true&size=22"></a>
 </p> 
 
-### Interested in connecting with Like-Minded Individuals and Collaborating on Projects 👩‍💻
+#### Interested in connecting with Like-Minded Individuals and Collaborating on Projects 👩‍💻
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-A020F0?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mennahtullah-sameh) [![Telegram](https://img.shields.io/badge/-Personal-A020F0?style=for-the-badge&logo=Telegram&logoColor=white)](https://t.me/Mennah5794)
 
 
