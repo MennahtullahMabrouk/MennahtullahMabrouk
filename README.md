@@ -8,7 +8,7 @@
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Study%20Hard;Deep%20Learning;&font=Fira%20Code&center=true&width=440&height=45&color=bd7dbd&vCenter=true&size=22"></a>
 </p> 
 
-### Let's Connect 👩‍💻
+### Let's Connect👩‍💻
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-A020F0?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mennahtullah-sameh) [![Telegram](https://img.shields.io/badge/-Personal-A020F0?style=for-the-badge&logo=Telegram&logoColor=white)](https://t.me/Mennah5794)
 
 
@@ -22,7 +22,7 @@ A Articles 📝</p>
 
 [![YouTube](https://img.shields.io/badge/-YouTube-bd7dbd?style=for-the-badge&logo=youtube)](https://youtube.com/@sepa5794)  [![Telegram](https://img.shields.io/badge/-Channel-bd7dbd?style=for-the-badge&logo=Telegram&logoColor=white)](https://t.me/SEPAchannel)
 
-### 🛠 Tech Stack
+### Tech Stack🛠
 <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=mennahmabrouk&show_icons=true&locale=en&layout=compact&theme=radical" alt="Used Languages" />
 <br>
 
