@@ -36,6 +36,7 @@ A Articles 📝</p>
 <a href="https://komarev.com/ghpvc/?username=mennahmabrouk&style=for-the-badge&color=A020F0">
     <img src="https://komarev.com/ghpvc/?username=mennahmabrouk&style=for-the-badge&color=A020F0">
 </a>
-
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=mennahmabrouk&show_icons=true&locale=en&layout=compact&theme=radical" alt="Used Languages" />
+<br>
 
 
