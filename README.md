@@ -28,9 +28,10 @@ A Articles 📝</p>
     <img src="https://komarev.com/ghpvc/?username=mennahmabrouk&style=for-the-badge">
 </a>
 
-![Python](https://img.shields.io/badge/-Python%20-05122A?style=flat&logo=python)&nbsp;
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
+![Python](https://img.shields.io/badge/-Python%20-05122A?style=flat&logo=python)&nbsp;
 ![C++](https://img.shields.io/badge/C++%20-05122A?style=flat&logo=c%2B%2B)&nbsp;
+![C#](https://img.shields.io/badge/-c#%20-05122A?style=flat&logo=c#)&nbsp;
 
 
