@@ -24,7 +24,7 @@ A Articles 📝</p>
 [![YouTube](https://img.shields.io/badge/-YouTube-bd7dbd?style=for-the-badge&logo=youtube)](https://youtube.com/@sepa5794)  [![Telegram](https://img.shields.io/badge/-Channel-bd7dbd?style=for-the-badge&logo=Telegram&logoColor=white)](https://t.me/SEPAchannel)
 
 ### Tech Stack🛠
-<img align="right&color=A020F0" src="https://github-readme-stats.vercel.app/api/top-langs?username=mennahmabrouk&show_icons=true&locale=en&layout=compact&theme=radical" alt="Used Languages" />
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=mennahmabrouk&show_icons=true&locale=en&layout=compact&theme=radical" alt="Used Languages" />
 <br>
 
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
