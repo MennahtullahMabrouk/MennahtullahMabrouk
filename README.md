@@ -35,6 +35,6 @@ A Articles 📝</p>
 ![C#](https://img.shields.io/badge/c%23-05122A?style=for-the-badge&logo=c-sharp&logoColor=green)&nbsp;
 
 <a href="https://komarev.com/ghpvc/?username=mennahmabrouk&style=for-the-badge&color=A020F0">
-    <img align="dowen" src="https://komarev.com/ghpvc/?username=mennahmabrouk&style=for-the-badge&color=A020F0">
+    <img align="up" src="https://komarev.com/ghpvc/?username=mennahmabrouk&style=for-the-badge&color=A020F0">
 </a>
 
