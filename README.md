@@ -38,5 +38,7 @@ A Articles 📝</p>
     <img src="https://komarev.com/ghpvc/?username=mennahmabrouk&style=for-the-badge&color=A020F0">
 </a>
 
+[![mennahmabrouk](https://github-readme-stats.vercel.app/api/wakatime?username=mennahmabrouk)](https://github.com/anuraghazra/github-readme-stats)
+
 
 
