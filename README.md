@@ -1,5 +1,4 @@
-## Mennahtullah Mabrouk 
-#### As a second-year undergraduate student, I have developed a solid understanding of the basics of machine learning, bioinformatics, and Python programming language. <img src="https://media.tenor.com/NR-Kr20l4d4AAAAi/anime-hi.gif" width="100">
+## Mennahtullah Mabrouk <img src="https://media.tenor.com/NR-Kr20l4d4AAAAi/anime-hi.gif" width="100">
 
 
 <p align="center">
