@@ -1,6 +1,6 @@
 ## Mennahtullah Mabrouk 
 #### As a second-year undergraduate student, I have developed a solid understanding of the basics of machine learning, bioinformatics, and Python programming language.   
-<img src="https://i.stack.imgur.com/8yFqA.gif" width="28">
+<img src="https://i.stack.imgur.com/022Fl.gif" width="28">
 
 
 <p align="center">
