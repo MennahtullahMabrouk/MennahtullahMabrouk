@@ -31,6 +31,8 @@ A Articles 📝</p>
 ![Python](https://img.shields.io/badge/-Python%20-05122A?style=flat&logo=python)&nbsp;
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
-![C++](https://img.shields.io/badge/-C++-05122A?style=flat&logo=c++)&nbsp;
+[![C++](https://img.shields.io/badge/-C++-05122A?style=flat&logo=c++)&nbsp;
+](https://img.shields.io/badge/C++-Solutions-blue.svg?style=flat&logo=c++
 
+)
 
