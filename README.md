@@ -33,5 +33,6 @@ A Articles 📝</p>
 ![Python](https://img.shields.io/badge/-Python%20-05122A?style=flat&logo=python)&nbsp;
 ![C++](https://img.shields.io/badge/C++%20-05122A?style=flat&logo=c%2B%2B)&nbsp;
 ![C#](https://img.shields.io/badge/-c#%20-05122A?style=flat&logo=c#)&nbsp;
+![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white)&nbsp;
 
 
