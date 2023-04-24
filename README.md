@@ -32,7 +32,7 @@ A Articles 📝</p>
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
 ![Python](https://img.shields.io/badge/-Python%20-05122A?style=flat&logo=python)&nbsp;
 ![C++](https://img.shields.io/badge/C++%20-05122A?style=flat&logo=c%2B%2B)&nbsp;
-![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)&nbsp;
+![C#](https://img.shields.io/badge/c%23-05122A?style=for-the-badge&logo=c-sharp&logoColor=white)&nbsp;
 ![Jupyter Notebook](https://img.shields.io/badge/jupyter-05122A?style=for-the-badge&logo=jupyter&logoColor=white)&nbsp;
 
 
