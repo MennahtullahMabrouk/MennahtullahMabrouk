@@ -14,7 +14,7 @@
 
 
   
-### SEPA🔥
+### Where I Share my Knowledge and Insights "SEPA🔥"
 <p style="margin-top: 0">S Serotonin 👩‍🔬<br>
 E Endorphins 🧬<br>
 P Programming, Productivity 💻💪🏻<br>
