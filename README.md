@@ -26,4 +26,5 @@ A Articles 📝</p>
     <img src="https://komarev.com/ghpvc/?username=mennahmabrouk&style=for-the-badge">
 </a>
 
+![Python](https://img.shields.io/badge/-Python%20-05122A?style=flat&logo=python)&nbsp;
 
