@@ -1,5 +1,5 @@
 ## Mennahtullah Mabrouk 
-#### As a second-year undergraduate student, I have developed a solid understanding of the basics of machine learning, bioinformatics, and Python programming language.   <img src="![image](https://user-images.githubusercontent.com/101124995/234029823-97c39c6a-2de5-45cf-9fad-384c0101a649.png)" width="28">
+#### As a second-year undergraduate student, I have developed a solid understanding of the basics of machine learning, bioinformatics, and Python programming language.   <img src="(https://user-images.githubusercontent.com/101124995/234029823-97c39c6a-2de5-45cf-9fad-384c0101a649.png)" width="28">
 
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Never%20Give-Up;Machine%20Learning;&font=Fira%20Code&center=true&width=440&height=45&color=A020F0&vCenter=true&size=22"></a>
