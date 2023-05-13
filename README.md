@@ -36,7 +36,7 @@ A Articles 📝</p>
 ![Jupyter Notebook](https://img.shields.io/badge/jupyter-05122A?style=for-the-badge&logo=jupyter&logoColor=Orange)&nbsp;
 ![C++](https://img.shields.io/badge/c++-05122A?style=for-the-badge&logo=c%2B%2B&logoColor=cyan)&nbsp;
 ![C#](https://img.shields.io/badge/c%23-05122A?style=for-the-badge&logo=c-sharp&logoColor=green)&nbsp;
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)&nbsp;
+![C](https://img.shields.io/badge/C-05122A?style=for-the-badge&logo=c&logoColor=white)&nbsp;
 
 
 
