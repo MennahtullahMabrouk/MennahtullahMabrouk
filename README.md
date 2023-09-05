@@ -9,8 +9,7 @@
 </p> 
 
 #### Interested in connecting with Like-Minded Individuals and Collaborating on Projects 👩‍💻
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-A020F0?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mennahtullah-sameh) [![Telegram](https://img.shields.io/badge/-Personal-A020F0?style=for-the-badge&logo=Telegram&logoColor=white)](https://t.me/Mennah5794)
-
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-A020F0?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mennahtullah-mabrouk) 
 
   
 ### Where I Share my Knowledge and Insights "SEPA🔥"
