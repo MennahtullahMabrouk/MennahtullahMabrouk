@@ -8,7 +8,7 @@
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Study%20Hard;Scientist%20;&font=Fira%20Code&center=true&width=440&height=45&color=bd7dbd&vCenter=true&size=22"></a>
 </p> 
 
-#### Interested in connecting with Like-Minded Individuals and Collaborating on Projects 👩‍💻
+#### Take a Glance 👩‍💻
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-A020F0?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mennahtullah-mabrouk) [![Spotify](https://img.shields.io/badge/-Spotify-A020F0?style=for-the-badge&logo=Spotify&logoColor=white)](https://open.spotify.com/show/2v8r3V1BWelOrbXFbBIKoF?si=f33deb246e5a4091) [![Medium](https://img.shields.io/badge/-Medium-A020F0?style=for-the-badge&logo=Medium&logoColor=white)](https://medium.com/@mennahtullahmabrouk) [![DEV](https://img.shields.io/badge/-DEV-A020F0?style=for-the-badge&logo=DEV&logoColor=white)](https://dev.to/mennahtullahmabrouk) 
 
 ### Where I Share my Knowledge and Insights "SEPA🔥"
