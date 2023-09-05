@@ -1,12 +1,11 @@
 ## Mennahtullah Mabrouk <img src="https://media.tenor.com/NR-Kr20l4d4AAAAi/anime-hi.gif" width="50">
-#### I am a second-year undergraduate student with a strong foundation in Python programming language, machine learning basics, and bioinformatics. I have practical experience working on projects that have helped me develop my skills further. Looking to continue learning and applying my knowledge to real-world problems.
-
+#### I am currently studying bioinformatics and working on developing my technical skills. I am passionate about teaching and sharing my knowledge with others, as demonstrated by my YouTube channel and tech articles. Additionally, I have a strong foundation in quantum computing, which excites me for its potential to revolutionize scientific research. Moreover, I host a self-educational podcast where I delve into various topics, presenting them in an accessible and engaging manner.
 
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Never%20Give-Up;Machine%20Learning;&font=Fira%20Code&center=true&width=440&height=45&color=A020F0&vCenter=true&size=22"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Never%20Give-Up;Bioinformatics%20;&font=Fira%20Code&center=true&width=440&height=45&color=A020F0&vCenter=true&size=22"></a>
 </p> 
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Study%20Hard;Deep%20Learning;&font=Fira%20Code&center=true&width=440&height=45&color=bd7dbd&vCenter=true&size=22"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Study%20Hard;Scientist%20;&font=Fira%20Code&center=true&width=440&height=45&color=bd7dbd&vCenter=true&size=22"></a>
 </p> 
 
 #### Interested in connecting with Like-Minded Individuals and Collaborating on Projects 👩‍💻
