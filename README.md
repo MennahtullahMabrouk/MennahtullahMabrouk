@@ -11,13 +11,17 @@
 #### Interested in connecting with Like-Minded Individuals and Collaborating on Projects 👩‍💻
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-A020F0?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mennahtullah-mabrouk) 
 
-  
+[![Spotify](https://img.shields.io/badge/-Spotify-olive?style=for-the-badge&logo=Spotify&logoColor=white)](https://open.spotify.com/show/2v8r3V1BWelOrbXFbBIKoF?si=f33deb246e5a4091) 
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-A020F0?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mennahtullah-mabrouk) 
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-A020F0?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mennahtullah-mabrouk) 
+
 ### Where I Share my Knowledge and Insights "SEPA🔥"
 <p style="margin-top: 0">S Serotonin 👩‍🔬<br>
 E Endorphins 🧬<br>
 P Programming, Productivity 💻💪🏻<br>
 A Articles 📝</p>
-
 
 [![YouTube](https://img.shields.io/badge/-YouTube-bd7dbd?style=for-the-badge&logo=youtube)](https://youtube.com/@sepa5794)  [![Telegram](https://img.shields.io/badge/-Channel-bd7dbd?style=for-the-badge&logo=Telegram&logoColor=white)](https://t.me/SEPAchannel)
 <a href="https://komarev.com/ghpvc/?username=mennahmabrouk&style=for-the-badge&color=bd7dbd">
