@@ -11,11 +11,11 @@
 #### Interested in connecting with Like-Minded Individuals and Collaborating on Projects 👩‍💻
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-A020F0?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mennahtullah-mabrouk) 
 
-[![Spotify](https://img.shields.io/badge/-Spotify-olive?style=for-the-badge&logo=Spotify&logoColor=white)](https://open.spotify.com/show/2v8r3V1BWelOrbXFbBIKoF?si=f33deb246e5a4091) 
+[![Spotify](https://img.shields.io/badge/-Spotify-A020F0?style=for-the-badge&logo=Spotify&logoColor=white)](https://open.spotify.com/show/2v8r3V1BWelOrbXFbBIKoF?si=f33deb246e5a4091) 
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-A020F0?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mennahtullah-mabrouk) 
+[![Medium](https://img.shields.io/badge/-Medium-A020F0?style=for-the-badge&logo=Medium&logoColor=white)](https://medium.com/@mennahtullahmabrouk) 
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-A020F0?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mennahtullah-mabrouk) 
+[![DEV](https://img.shields.io/badge/-DEV-A020F0?style=for-the-badge&logo=DEV&logoColor=white)](https://dev.to/mennahtullahmabrouk) 
 
 ### Where I Share my Knowledge and Insights "SEPA🔥"
 <p style="margin-top: 0">S Serotonin 👩‍🔬<br>
