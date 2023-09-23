@@ -1,5 +1,5 @@
 ## Mennahtullah Mabrouk <img src="https://media.tenor.com/NR-Kr20l4d4AAAAi/anime-hi.gif" width="50">
-#### I am currently studying bioinformatics and working on developing my technical skills. Having a strong foundation in quantum computing and Nerouscience, which excites me for its potential to revolutionize scientific research. 
+I am currently studying bioinformatics and working on developing my technical skills. Having a strong foundation in quantum computing and Nerouscience, which excites me for its potential to revolutionize scientific research. 
 
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Never%20Give-Up;Bioinformatics%20;&font=Fira%20Code&center=true&width=440&height=45&color=A020F0&vCenter=true&size=22"></a>
@@ -8,7 +8,7 @@
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Study%20Hard;Scientist%20;&font=Fira%20Code&center=true&width=440&height=45&color=bd7dbd&vCenter=true&size=22"></a>
 </p> 
 
-#### Take a Glance 👩‍💻
+### Take a Glance 👩‍💻
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-A020F0?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mennahtullah-mabrouk) [![Spotify](https://img.shields.io/badge/-Spotify-A020F0?style=for-the-badge&logo=Spotify&logoColor=white)](https://open.spotify.com/show/2v8r3V1BWelOrbXFbBIKoF?si=f33deb246e5a4091) [![Medium](https://img.shields.io/badge/-Medium-A020F0?style=for-the-badge&logo=Medium&logoColor=white)](https://medium.com/@mennahtullahmabrouk) [![DEV](https://img.shields.io/badge/-DEV-A020F0?style=for-the-badge&logo=DEV&logoColor=white)](https://dev.to/mennahtullahmabrouk) 
 
 ### Where I Share my Knowledge and Insights "SEPA🔥"
