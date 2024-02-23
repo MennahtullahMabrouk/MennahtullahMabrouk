@@ -1,5 +1,6 @@
 ## Mennahtullah Mabrouk <img src="https://media.tenor.com/NR-Kr20l4d4AAAAi/anime-hi.gif" width="50">
-I am currently studying bioinformatics and working on developing my technical skills. Having a strong foundation in quantum computing and Nerouscience, which excites me for its potential to revolutionize scientific research. 
+Experienced in bioinformatics and quantum computing fundamentals. Actively participates in industry events and
+continuous learning to stay updated on emerging technologies. 
 
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Never%20Give-Up;Bioinformatics%20;&font=Fira%20Code&center=true&width=440&height=45&color=A020F0&vCenter=true&size=22"></a>
@@ -11,11 +12,6 @@ I am currently studying bioinformatics and working on developing my technical sk
 ### Take a Glance 👩‍💻
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-A020F0?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mennahtullah-mabrouk) [![Spotify](https://img.shields.io/badge/-Spotify-A020F0?style=for-the-badge&logo=Spotify&logoColor=white)](https://open.spotify.com/show/2v8r3V1BWelOrbXFbBIKoF?si=f33deb246e5a4091) [![Medium](https://img.shields.io/badge/-Medium-A020F0?style=for-the-badge&logo=Medium&logoColor=white)](https://medium.com/@mennahtullahmabrouk) [![DEV](https://img.shields.io/badge/-DEV-A020F0?style=for-the-badge&logo=DEV&logoColor=white)](https://dev.to/mennahtullahmabrouk) 
 
-### Where I Share my Knowledge and Insights "SEPA🔥"
-<p style="margin-top: 0">S Serotonin 👩‍🔬<br>
-E Endorphins 🧬<br>
-P Programming, Productivity 💻💪🏻<br>
-A Articles 📝</p>
 
 [![YouTube](https://img.shields.io/badge/-YouTube-bd7dbd?style=for-the-badge&logo=youtube)](https://youtube.com/@sepa5794)  [![Telegram](https://img.shields.io/badge/-Channel-bd7dbd?style=for-the-badge&logo=Telegram&logoColor=white)](https://t.me/SEPAchannel)
 <a href="https://komarev.com/ghpvc/?username=mennahmabrouk&style=for-the-badge&color=bd7dbd">
