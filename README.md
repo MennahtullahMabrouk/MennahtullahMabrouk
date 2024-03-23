@@ -26,15 +26,8 @@ Studying bioinformatics with a focus on data engineering, I share insights throu
 -->
 <br>
 
-<html lang="en">
-<head>
-<meta charset="UTF-8">
-<meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>Table with Image</title>
-</head>
 <body>
   <div style="display: flex; align-items: center;">
-    <!-- Table -->
     <table cellspacing="20">
       <tr>
         <td>
