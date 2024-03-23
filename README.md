@@ -38,7 +38,7 @@ Studying bioinformatics with a focus on data engineering, I share insights throu
       </p>
     </div>
     <div class="container" style="flex: 1;">
-      <img align="left" src="https://github.com/MennahMabrouk/MennahMabrouk/assets/101124995/49d1371f-bfc9-4a51-a5c4-541d2faf5474" width="150" height="150">
+      <img align="left" src="https://github.com/MennahMabrouk/MennahMabrouk/assets/101124995/49d1371f-bfc9-4a51-a5c4-541d2faf5474" width="180" height="180">
       <table cellspacing="20">
         <tr>
           <td>
