@@ -1,4 +1,4 @@
-![永不放弃 (Presentation)](https://github.com/MennahMabrouk/MennahMabrouk/assets/101124995/742eec9b-3b78-4446-9c8a-8a18886358d5)
+![Purple Minimalist Brush Personal LinkedIn Banner (1)](https://github.com/MennahMabrouk/MennahMabrouk/assets/101124995/f1ef358c-0710-4c04-a6e5-9467281cb6f0)
 
 <br>
 
