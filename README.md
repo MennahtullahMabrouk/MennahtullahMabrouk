@@ -19,10 +19,10 @@ Studying bioinformatics with a focus on data engineering, I share insights throu
 
 [![YouTube](https://img.shields.io/badge/-YouTube-FF0100?style=for-the-badge&logo=youtube)](https://youtube.com/@sepa5794)
 [![Telegram](https://img.shields.io/badge/-Channel-24A0DC?style=for-the-badge&logo=Telegram&logoColor=white)](https://t.me/SEPAchannel)
-
 <a href="https://komarev.com/ghpvc/?username=mennahmabrouk&style=for-the-badge&color=bd7dbd">
     <img src="https://komarev.com/ghpvc/?username=mennahmabrouk&style=for-the-badge&color=bd7dbd">
 </a>
+
 ### Tech Stack🛠
 <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=mennahmabrouk&show_icons=true&locale=en&layout=compact&theme=radical" alt="Used Languages" />
 
