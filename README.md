@@ -11,6 +11,8 @@ Studying bioinformatics with a focus on data engineering, I share insights throu
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Study%20Hard;Scientist%20;&font=Fira%20Code&center=true&width=440&height=45&color=bd7dbd&vCenter=true&size=22"></a>
 </p> 
 
+
+<p align="center">
 ### Take a Glance 👩‍💻
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-2867B2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mennahtullah-mabrouk) 
 [![Spotify](https://img.shields.io/badge/-Spotify-22D05D?style=for-the-badge&logo=Spotify&logoColor=white)](https://open.spotify.com/show/2v8r3V1BWelOrbXFbBIKoF?si=f33deb246e5a4091) 
@@ -46,6 +48,7 @@ Studying bioinformatics with a focus on data engineering, I share insights throu
 ![PowerBI](https://img.shields.io/badge/PowerBI-05122A?style=for-the-badge&logo=PowerBI&logoColor=yellow)&nbsp;
 ![Tableau](https://img.shields.io/badge/Tableau-05122A?style=for-the-badge&logo=Tableau&logoColor=blue)&nbsp;
 
+</p> 
 
 
 <p align="center">
