@@ -1,11 +1,10 @@
-<p align="center">
-
-## Mennahtullah Mabrouk <img src="https://media.tenor.com/NR-Kr20l4d4AAAAi/anime-hi.gif" width="50">
-</p>
-<br>
-
 ![永不放弃 (Presentation)](https://github.com/MennahMabrouk/MennahMabrouk/assets/101124995/742eec9b-3b78-4446-9c8a-8a18886358d5)
 
+<br>
+
+<p align="center">
+## Mennahtullah Mabrouk <img src="https://media.tenor.com/NR-Kr20l4d4AAAAi/anime-hi.gif" width="50">
+</p>
 <p align="center">
 Studying bioinformatics with a focus on data engineering, I share insights through my YouTube channel, articles, and a podcast, leveraging my expertise as an Upwork freelancer.
 </p>
