@@ -28,7 +28,6 @@ Studying bioinformatics with a focus on data engineering, I share insights throu
   <tr>
     <td>
       <p align="center">
-        Take a Glance
         <a href="https://www.linkedin.com/in/mennahtullah-mabrouk">
           <img src="https://img.shields.io/badge/-LinkedIn-2867B2?style=for-the-badge&logo=linkedin&logoColor=white">
         </a>
@@ -36,7 +35,6 @@ Studying bioinformatics with a focus on data engineering, I share insights throu
     </td>
     <td>
       <p align="center">
-        Take a Glance
         <a href="https://open.spotify.com/show/2v8r3V1BWelOrbXFbBIKoF?si=f33deb246e5a4091">
           <img src="https://img.shields.io/badge/-Spotify-22D05D?style=for-the-badge&logo=Spotify&logoColor=white">
         </a>
@@ -46,7 +44,6 @@ Studying bioinformatics with a focus on data engineering, I share insights throu
   <tr>
     <td>
       <p align="center">
-        Take a Glance
         <a href="https://medium.com/@mennahtullahmabrouk">
           <img src="https://img.shields.io/badge/-Medium-000000?style=for-the-badge&logo=Medium&logoColor=white">
         </a>
@@ -54,7 +51,6 @@ Studying bioinformatics with a focus on data engineering, I share insights throu
     </td>
     <td>
       <p align="center">
-        Take a Glance
         <a href="https://dev.to/mennahtullahmabrouk">
           <img src="https://img.shields.io/badge/-DEV-000000?style=for-the-badge&logo=DEV&logoColor=white">
         </a>
@@ -64,7 +60,6 @@ Studying bioinformatics with a focus on data engineering, I share insights throu
   <tr>
     <td>
       <p align="center">
-        Take a Glance
         <a href="https://www.kaggle.com/mennahtullasameh">
           <img src="https://img.shields.io/badge/-Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white">
         </a>
@@ -72,7 +67,6 @@ Studying bioinformatics with a focus on data engineering, I share insights throu
     </td>
     <td>
       <p align="center">
-        Take a Glance
         <a href="https://www.upwork.com/freelancers/~01237dec759096da5d">
           <img src="https://img.shields.io/badge/-Upwork-13A800?style=for-the-badge&logo=Upwork&logoColor=white">
         </a>
@@ -82,7 +76,6 @@ Studying bioinformatics with a focus on data engineering, I share insights throu
   <tr>
     <td>
       <p align="center">
-        Take a Glance
         <a href="https://www.youtube.com/@Mennahtullah_Mabrouk">
           <img src="https://img.shields.io/badge/-YouTube-FF0100?style=for-the-badge&logo=YouTube&logoColor=white">
         </a>
@@ -90,7 +83,6 @@ Studying bioinformatics with a focus on data engineering, I share insights throu
     </td>
     <td>
       <p align="center">
-        Take a Glance
         <a href="https://t.me/MennahtullahMabrouk">
           <img src="https://img.shields.io/badge/-Channel-24A0DC?style=for-the-badge&logo=Telegram&logoColor=white">
         </a>
@@ -98,6 +90,7 @@ Studying bioinformatics with a focus on data engineering, I share insights throu
     </td>
   </tr>
 </table>
+
 
 
 ### Tech Stack🛠
