@@ -9,7 +9,12 @@ Studying bioinformatics with a focus on data engineering, I share insights throu
 </p> 
 
 ### Take a Glance 👩‍💻
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-A020F0?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mennahtullah-mabrouk) [![Spotify](https://img.shields.io/badge/-Spotify-A020F0?style=for-the-badge&logo=Spotify&logoColor=white)](https://open.spotify.com/show/2v8r3V1BWelOrbXFbBIKoF?si=f33deb246e5a4091) [![Medium](https://img.shields.io/badge/-Medium-A020F0?style=for-the-badge&logo=Medium&logoColor=white)](https://medium.com/@mennahtullahmabrouk) [![DEV](https://img.shields.io/badge/-DEV-A020F0?style=for-the-badge&logo=DEV&logoColor=white)](https://dev.to/mennahtullahmabrouk) [![Kaggle](https://img.shields.io/badge/-Kaggle-A020F0?style=for-the-badge&logo=DEV&logoColor=white)](https://www.kaggle.com/mennahtullasameh) 
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-A020F0?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mennahtullah-mabrouk) 
+[![Spotify](https://img.shields.io/badge/-Spotify-A020F0?style=for-the-badge&logo=Spotify&logoColor=white)](https://open.spotify.com/show/2v8r3V1BWelOrbXFbBIKoF?si=f33deb246e5a4091) 
+[![Medium](https://img.shields.io/badge/-Medium-A020F0?style=for-the-badge&logo=Medium&logoColor=white)](https://medium.com/@mennahtullahmabrouk) 
+[![DEV](https://img.shields.io/badge/-DEV-A020F0?style=for-the-badge&logo=DEV&logoColor=white)](https://dev.to/mennahtullahmabrouk) 
+[![Kaggle](https://img.shields.io/badge/-Kaggle-A020F0?style=for-the-badge&logo=DEV&logoColor=white)](https://www.kaggle.com/mennahtullasameh) 
+[![Upwork](https://img.shields.io/badge/-Upwork-A020F0?style=for-the-badge&logo=Upwork&logoColor=white)](https://www.upwork.com/freelancers/~01237dec759096da5d)
 
 
 [![YouTube](https://img.shields.io/badge/-YouTube-bd7dbd?style=for-the-badge&logo=youtube)](https://youtube.com/@sepa5794)  [![Telegram](https://img.shields.io/badge/-Channel-bd7dbd?style=for-the-badge&logo=Telegram&logoColor=white)](https://t.me/SEPAchannel)
