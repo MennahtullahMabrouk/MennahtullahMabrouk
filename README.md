@@ -29,6 +29,14 @@ continuous learning to stay updated on emerging technologies.
 ![C++](https://img.shields.io/badge/c++-05122A?style=for-the-badge&logo=c%2B%2B&logoColor=cyan)&nbsp;
 ![C#](https://img.shields.io/badge/c%23-05122A?style=for-the-badge&logo=c-sharp&logoColor=green)&nbsp;
 ![C](https://img.shields.io/badge/C-05122A?style=for-the-badge&logo=c&logoColor=white)&nbsp;
+![R](https://img.shields.io/badge/R-05122A?style=for-the-badge&logo=R&logoColor=blue)&nbsp;
+![SQL](https://img.shields.io/badge/SQL-05122A?style=for-the-badge&logo=sql&logoColor=yellow)&nbsp;
+![Oracle SQL](https://img.shields.io/badge/Oracle%20SQL-05122A?style=for-the-badge&logo=oracle&logoColor=red)&nbsp;
+![MySQL](https://img.shields.io/badge/MySQL-05122A?style=for-the-badge&logo=mysql&logoColor=blue)&nbsp;
+![ETL](https://img.shields.io/badge/ETL-05122A?style=for-the-badge&logo=ETL&logoColor=orange)&nbsp;
+![PowerBI](https://img.shields.io/badge/PowerBI-05122A?style=for-the-badge&logo=PowerBI&logoColor=yellow)&nbsp;
+![Tableau](https://img.shields.io/badge/Tableau-05122A?style=for-the-badge&logo=Tableau&logoColor=blue)&nbsp;
+
 
 
 <p align="center">
