@@ -9,7 +9,7 @@
 </p>
 
 <p align="center">
-Studying bioinformatics with a focus on data engineering, I share insights through my YouTube channel, articles, and a podcast, leveraging my expertise as an Upwork freelancer.
+Studying bioinformatics with a focus on data engineering, I share insights through my YouTube channel, articles, and a podcast, leveraging my expertise as an Upwork freelancer
 </p>
 
 <p align="center">
