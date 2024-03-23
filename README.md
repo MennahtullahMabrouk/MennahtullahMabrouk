@@ -19,8 +19,8 @@ Studying bioinformatics with a focus on data engineering, I share insights throu
 
 [![YouTube](https://img.shields.io/badge/-YouTube-FF0100?style=for-the-badge&logo=youtube)](https://www.youtube.com/@Mennahtullah_Mabrouk)
 [![Telegram](https://img.shields.io/badge/-Channel-24A0DC?style=for-the-badge&logo=Telegram&logoColor=white)](https://t.me/MennahtullahMabrouk)
-<a href="https://komarev.com/ghpvc/?username=mennahmabrouk&style=for-the-badge&color=4F2C8F">
-    <img src="https://komarev.com/ghpvc/?username=mennahmabrouk&style=for-the-badge&color=4F2C8F">
+<a href="https://komarev.com/ghpvc/?username=mennahmabrouk&style=for-the-badge&color=B87279">
+    <img src="https://komarev.com/ghpvc/?username=mennahmabrouk&style=for-the-badge&color=B87279">
 </a>
 
 ### Tech Stack🛠
