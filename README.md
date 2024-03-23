@@ -105,10 +105,11 @@ Studying bioinformatics with a focus on data engineering, I share insights throu
           </td>
         </tr>
       </table>
+      <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=mennahmabrouk&show_icons=true&locale=en&layout=compact&theme=radical" alt="Used Languages" />
     </div>
   </div>
 </body>
-</p>
+</pr>
 
 ### Tech Stack🛠
     
