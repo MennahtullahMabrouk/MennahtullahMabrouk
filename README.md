@@ -17,8 +17,8 @@ Studying bioinformatics with a focus on data engineering, I share insights throu
 [![Upwork](https://img.shields.io/badge/-Upwork-13A800?style=for-the-badge&logo=Upwork&logoColor=white)](https://www.upwork.com/freelancers/~01237dec759096da5d)
 
 
-[![YouTube](https://img.shields.io/badge/-YouTube-FF0100?style=for-the-badge&logo=youtube)](https://youtube.com/@sepa5794)
-[![Telegram](https://img.shields.io/badge/-Channel-24A0DC?style=for-the-badge&logo=Telegram&logoColor=white)](https://t.me/SEPAchannel)
+[![YouTube](https://img.shields.io/badge/-YouTube-FF0100?style=for-the-badge&logo=youtube)](https://www.youtube.com/@Mennahtullah_Mabrouk)
+[![Telegram](https://img.shields.io/badge/-Channel-24A0DC?style=for-the-badge&logo=Telegram&logoColor=white)](https://t.me/MennahtullahMabrouk)
 <a href="https://komarev.com/ghpvc/?username=mennahmabrouk&style=for-the-badge&color=bd7dbd">
     <img src="https://komarev.com/ghpvc/?username=mennahmabrouk&style=for-the-badge&color=bd7dbd">
 </a>
