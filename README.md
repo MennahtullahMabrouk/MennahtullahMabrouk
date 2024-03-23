@@ -26,82 +26,85 @@ Studying bioinformatics with a focus on data engineering, I share insights throu
 -->
 <br>
 <body>
-<div class="container">
-  <img align="right" src="https://github.com/MennahMabrouk/MennahMabrouk/assets/101124995/49d1371f-bfc9-4a51-a5c4-541d2faf5474" width="200" height="200">
-  <table cellspacing="20">
-    <tr>
-      <td>
-        <p align="center">
-          <a href="https://www.linkedin.com/in/mennahtullah-mabrouk">
-            <img src="https://img.shields.io/badge/-LinkedIn-2867B2?style=for-the-badge&logo=linkedin&logoColor=white">
-          </a>
-        </p>
-      </td>
-      <td>
-        <p align="center">
-          <a href="https://open.spotify.com/show/2v8r3V1BWelOrbXFbBIKoF?si=f33deb246e5a4091">
-            <img src="https://img.shields.io/badge/-Spotify-22D05D?style=for-the-badge&logo=Spotify&logoColor=white">
-          </a>
-        </p>
-      </td>
-    </tr>
-    <tr>
-      <td>
-        <p align="center">
-          <a href="https://medium.com/@mennahtullahmabrouk">
-            <img src="https://img.shields.io/badge/-Medium-000000?style=for-the-badge&logo=Medium&logoColor=white">
-          </a>
-        </p>
-      </td>
-      <td>
-        <p align="center">
-          <a href="https://dev.to/mennahtullahmabrouk">
-            <img src="https://img.shields.io/badge/-DEV-000000?style=for-the-badge&logo=DEV&logoColor=white">
-          </a>
-        </p>
-      </td>
-    </tr>
-    <tr>
-      <td>
-        <p align="center">
-          <a href="https://www.kaggle.com/mennahtullasameh">
-            <img src="https://img.shields.io/badge/-Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white">
-          </a>
-        </p>
-      </td>
-      <td>
-        <p align="center">
-          <a href="https://www.upwork.com/freelancers/~01237dec759096da5d">
-            <img src="https://img.shields.io/badge/-Upwork-13A800?style=for-the-badge&logo=Upwork&logoColor=white">
-          </a>
-        </p>
-      </td>
-    </tr>
-    <tr>
-      <td>
-        <p align="center">
-          <a href="https://www.youtube.com/@Mennahtullah_Mabrouk">
-            <img src="https://img.shields.io/badge/-YouTube-FF0100?style=for-the-badge&logo=YouTube&logoColor=white">
-          </a>
-        </p>
-      </td>
-      <td>
-        <p align="center">
-          <a href="https://t.me/MennahtullahMabrouk">
-            <img src="https://img.shields.io/badge/-Channel-24A0DC?style=for-the-badge&logo=Telegram&logoColor=white">
+  <div style="text-align: center;">
+    <p align="center">
+      <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Never%20Give-Up;Bioinformatics%20;&font=Fira%20Code&center=true&width=440&height=45&color=A020F0&vCenter=true&size=22"></a>
+    </p>
+    <p align="center">
+      <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Study%20Hard;Scientist%20;&font=Fira%20Code&center=true&width=440&height=45&color=bd7dbd&vCenter=true&size=22"></a>
+    </p>
+    <div class="container">
+      <img align="right" src="https://github.com/MennahMabrouk/MennahMabrouk/assets/101124995/49d1371f-bfc9-4a51-a5c4-541d2faf5474" width="200" height="200">
+      <table cellspacing="20">
+        <tr>
+          <td>
             <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Never%20Give-Up;Bioinformatics%20;&font=Fira%20Code&center=true&width=440&height=45&color=A020F0&vCenter=true&size=22"></a>
-</p> 
-<p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Study%20Hard;Scientist%20;&font=Fira%20Code&center=true&width=440&height=45&color=bd7dbd&vCenter=true&size=22"></a>
-</p> 
-          </a>
-        </p>
-      </td>
-    </tr>
-  </table>
-</div>
+              <a href="https://www.linkedin.com/in/mennahtullah-mabrouk">
+                <img src="https://img.shields.io/badge/-LinkedIn-2867B2?style=for-the-badge&logo=linkedin&logoColor=white">
+              </a>
+            </p>
+          </td>
+          <td>
+            <p align="center">
+              <a href="https://open.spotify.com/show/2v8r3V1BWelOrbXFbBIKoF?si=f33deb246e5a4091">
+                <img src="https://img.shields.io/badge/-Spotify-22D05D?style=for-the-badge&logo=Spotify&logoColor=white">
+              </a>
+            </p>
+          </td>
+        </tr>
+        <tr>
+          <td>
+            <p align="center">
+              <a href="https://medium.com/@mennahtullahmabrouk">
+                <img src="https://img.shields.io/badge/-Medium-000000?style=for-the-badge&logo=Medium&logoColor=white">
+              </a>
+            </p>
+          </td>
+          <td>
+            <p align="center">
+              <a href="https://dev.to/mennahtullahmabrouk">
+                <img src="https://img.shields.io/badge/-DEV-000000?style=for-the-badge&logo=DEV&logoColor=white">
+              </a>
+            </p>
+          </td>
+        </tr>
+        <tr>
+          <td>
+            <p align="center">
+              <a href="https://www.kaggle.com/mennahtullasameh">
+                <img src="https://img.shields.io/badge/-Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white">
+              </a>
+            </p>
+          </td>
+          <td>
+            <p align="center">
+              <a href="https://www.upwork.com/freelancers/~01237dec759096da5d">
+                <img src="https://img.shields.io/badge/-Upwork-13A800?style=for-the-badge&logo=Upwork&logoColor=white">
+              </a>
+            </p>
+          </td>
+        </tr>
+        <tr>
+          <td>
+            <p align="center">
+              <a href="https://www.youtube.com/@Mennahtullah_Mabrouk">
+                <img src="https://img.shields.io/badge/-YouTube-FF0100?style=for-the-badge&logo=YouTube&logoColor=white">
+              </a>
+            </p>
+          </td>
+          <td>
+            <p align="center">
+              <a href="https://t.me/MennahtullahMabrouk">
+                <img src="https://img.shields.io/badge/-Channel-24A0DC?style=for-the-badge&logo=Telegram&logoColor=white">
+              </a>
+            </p>
+          </td>
+        </tr>
+      </table>
+    </div>
+  </div>
 </body>
+
 
 
 
