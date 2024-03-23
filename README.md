@@ -1,5 +1,7 @@
+<p align="center">
 ## Mennahtullah Mabrouk <img src="https://media.tenor.com/NR-Kr20l4d4AAAAi/anime-hi.gif" width="50">
 Studying bioinformatics with a focus on data engineering, I share insights through my YouTube channel, articles, and a podcast, leveraging my expertise as an Upwork freelancer.
+</p>
 
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Never%20Give-Up;Bioinformatics%20;&font=Fira%20Code&center=true&width=440&height=45&color=A020F0&vCenter=true&size=22"></a>
