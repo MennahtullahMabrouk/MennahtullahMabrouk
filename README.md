@@ -58,9 +58,7 @@ Studying bioinformatics with a focus on data engineering, I share insights throu
     </a>
 </p>
 
-
-<img src="https://github.com/MennahMabrouk/MennahMabrouk/assets/101124995/49d1371f-bfc9-4a51-a5c4-541d2faf5474" alt="منمن في الكوباية (3)" style="max-width: 100px; max-height: 100px;">
-
+<img src="https://github.com/MennahMabrouk/MennahMabrouk/assets/101124995/49d1371f-bfc9-4a51-a5c4-541d2faf5474" width="300" height="400">
 
 ### Tech Stack🛠
 <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=mennahmabrouk&show_icons=true&locale=en&layout=compact&theme=radical" alt="Used Languages" />
