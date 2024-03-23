@@ -26,9 +26,9 @@ Studying bioinformatics with a focus on data engineering, I share insights throu
   </p>
 -->
 <br>
-<p align="center">
+
 <body>
-  <div style="display: flex; justify-content: center;">
+  <div style="display: flex; justify-content: space-between; align-items: center;">
     <div style="flex: 1;">
       <p align="center">
         <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Never%20Give-Up;Bioinformatics%20;&font=Fira%20Code&center=true&width=440&height=45&color=A020F0&vCenter=true&size=22"></a>
@@ -37,7 +37,7 @@ Studying bioinformatics with a focus on data engineering, I share insights throu
         <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Study%20Hard;Scientist%20;&font=Fira%20Code&center=true&width=440&height=45&color=bd7dbd&vCenter=true&size=22"></a>
       </p>
     </div>
-    <div class="container" style="flex: 1;">
+    <div style="flex: 1;">
       <img align="left" src="https://github.com/MennahMabrouk/MennahMabrouk/assets/101124995/49d1371f-bfc9-4a51-a5c4-541d2faf5474" width="190" height="190">
       <table cellspacing="20">
         <tr>
@@ -55,8 +55,6 @@ Studying bioinformatics with a focus on data engineering, I share insights throu
               </a>
             </p>
           </td>
-        </tr>
-        <tr>
           <td>
             <p align="center">
               <a href="https://medium.com/@mennahtullahmabrouk">
@@ -71,8 +69,6 @@ Studying bioinformatics with a focus on data engineering, I share insights throu
               </a>
             </p>
           </td>
-        </tr>
-        <tr>
           <td>
             <p align="center">
               <a href="https://www.kaggle.com/mennahtullasameh">
@@ -87,8 +83,6 @@ Studying bioinformatics with a focus on data engineering, I share insights throu
               </a>
             </p>
           </td>
-        </tr>
-        <tr>
           <td>
             <p align="center">
               <a href="https://www.youtube.com/@Mennahtullah_Mabrouk">
@@ -105,11 +99,13 @@ Studying bioinformatics with a focus on data engineering, I share insights throu
           </td>
         </tr>
       </table>
-      <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mennahmabrouk&show_icons=true&locale=en&layout=compact&theme=radical" alt="Used Languages" />
+    </div>
+    <div style="flex: 1;">
+      <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=mennahmabrouk&show_icons=true&locale=en&layout=compact&theme=radical" alt="Used Languages" />
     </div>
   </div>
 </body>
-</pr>
+
 
 ### Tech Stack🛠
     
