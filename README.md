@@ -101,7 +101,6 @@ Studying bioinformatics with a focus on data engineering, I share insights throu
         </td>
       </tr>
     </table>
-    
     <img src="https://github.com/MennahMabrouk/MennahMabrouk/assets/101124995/49d1371f-bfc9-4a51-a5c4-541d2faf5474" width="400" height="400">
   </div>
 </body>
