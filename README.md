@@ -28,7 +28,7 @@ Studying bioinformatics with a focus on data engineering, I share insights throu
 <br>
 <body>
   <div style="display: flex; justify-content: center;">
-    <div>
+    <div style="flex: 1;">
       <p align="center">
         <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Never%20Give-Up;Bioinformatics%20;&font=Fira%20Code&center=true&width=440&height=45&color=A020F0&vCenter=true&size=22"></a>
       </p>
@@ -36,7 +36,7 @@ Studying bioinformatics with a focus on data engineering, I share insights throu
         <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Study%20Hard;Scientist%20;&font=Fira%20Code&center=true&width=440&height=45&color=bd7dbd&vCenter=true&size=22"></a>
       </p>
     </div>
-    <div class="container">
+    <div class="container" style="flex: 1;">
       <img align="right" src="https://github.com/MennahMabrouk/MennahMabrouk/assets/101124995/49d1371f-bfc9-4a51-a5c4-541d2faf5474" width="200" height="200">
       <table cellspacing="20">
         <tr>
@@ -107,6 +107,7 @@ Studying bioinformatics with a focus on data engineering, I share insights throu
     </div>
   </div>
 </body>
+
 
 
 
