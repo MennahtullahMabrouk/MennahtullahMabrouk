@@ -26,6 +26,7 @@ Studying bioinformatics with a focus on data engineering, I share insights throu
   </p>
 -->
 <br>
+<p align="center">
 <body>
   <div style="display: flex; justify-content: center;">
     <div style="flex: 1;">
@@ -107,12 +108,7 @@ Studying bioinformatics with a focus on data engineering, I share insights throu
     </div>
   </div>
 </body>
-
-
-
-
-
-
+</p>
 
 ### Tech Stack🛠
     
