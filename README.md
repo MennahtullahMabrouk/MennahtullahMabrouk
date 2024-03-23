@@ -24,7 +24,7 @@ Studying bioinformatics with a focus on data engineering, I share insights throu
     <h3>Take a Glance 👩‍💻</h3>
   </p>
 
-  <p align="center"> 
+<p align="center"> 
     <a href="https://www.linkedin.com/in/mennahtullah-mabrouk">
         <img src="https://img.shields.io/badge/-LinkedIn-2867B2?style=for-the-badge&logo=linkedin&logoColor=white">
     </a>
@@ -58,6 +58,8 @@ Studying bioinformatics with a focus on data engineering, I share insights throu
     </a>
 </p>
 
+
+![منمن في الكوباية (3)](https://github.com/MennahMabrouk/MennahMabrouk/assets/101124995/49d1371f-bfc9-4a51-a5c4-541d2faf5474)
 
 
 ### Tech Stack🛠
