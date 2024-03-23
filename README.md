@@ -26,7 +26,7 @@ Studying bioinformatics with a focus on data engineering, I share insights throu
 -->
 <br>
 
-<table align="center" cellspacing="20">
+<table cellspacing="20">
   <tr>
     <td>
       <p align="center">
@@ -92,6 +92,7 @@ Studying bioinformatics with a focus on data engineering, I share insights throu
     </td>
   </tr>
 </table>
+
 
 
 
