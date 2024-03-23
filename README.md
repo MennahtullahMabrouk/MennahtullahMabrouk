@@ -26,6 +26,7 @@ Studying bioinformatics with a focus on data engineering, I share insights throu
 -->
 <br>
     <img align="right" src="https://github.com/MennahMabrouk/MennahMabrouk/assets/101124995/49d1371f-bfc9-4a51-a5c4-541d2faf5474" width="200" height="200">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=mennahmabrouk&show_icons=true&locale=en&layout=compact&theme=radical" alt="Used Languages" />
 
 <body>
   <div style="display: flex; align-items: center;">
@@ -103,7 +104,6 @@ Studying bioinformatics with a focus on data engineering, I share insights throu
 
 
 ### Tech Stack🛠
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=mennahmabrouk&show_icons=true&locale=en&layout=compact&theme=radical" alt="Used Languages" />
 
 <br>
 
