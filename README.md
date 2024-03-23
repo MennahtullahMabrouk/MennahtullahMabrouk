@@ -1,5 +1,6 @@
-<p align="center">
 ## Mennahtullah Mabrouk <img src="https://media.tenor.com/NR-Kr20l4d4AAAAi/anime-hi.gif" width="50">
+
+<p align="center">
 Studying bioinformatics with a focus on data engineering, I share insights through my YouTube channel, articles, and a podcast, leveraging my expertise as an Upwork freelancer.
 </p>
 
