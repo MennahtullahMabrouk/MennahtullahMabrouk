@@ -13,6 +13,7 @@ Studying bioinformatics with a focus on data engineering, I share insights throu
 
 
 <p align="center"> 
+    <h3>Take a Glance 👩‍💻</h3>
     <a href="https://www.linkedin.com/in/mennahtullah-mabrouk">
         <img src="https://img.shields.io/badge/-LinkedIn-2867B2?style=for-the-badge&logo=linkedin&logoColor=white">
     </a>
