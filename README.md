@@ -52,10 +52,8 @@ Studying bioinformatics with a focus on data engineering, I share insights throu
     <h2 align="center">Find Me Online</h2>
     <p align="center">
         <br/>
-
+<p align="center">
 <div class="container toggle-list" style="flex: 1;">
-  <img align="left" src="https://github.com/MennahMabrouk/MennahMabrouk/assets/101124995/49d1371f-bfc9-4a51-a5c4-541d2faf5474" width="190" height="190">
-  <table cellspacing="20">
     <tr>
       <td>
         <p align="center">
