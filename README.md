@@ -53,7 +53,6 @@ Studying bioinformatics with a focus on data engineering, I share insights throu
       <p align="center">
         <br/>
         <div class="container toggle-list" style="display: flex;">
-          <img align="left" src="https://github.com/MennahMabrouk/MennahMabrouk/blob/main/assets/101124995/49d1371f-bfc9-4a51-a5c4-541d2faf5474.png" width="190" height="190">
           <table cellspacing="20">
             <tr>
               <td>
@@ -125,7 +124,6 @@ Studying bioinformatics with a focus on data engineering, I share insights throu
     </samp>
   </div>
 </details>
-
 
 
 ### Tech Stack🛠
