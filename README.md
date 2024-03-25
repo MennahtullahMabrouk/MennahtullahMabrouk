@@ -23,7 +23,7 @@ Studying bioinformatics with a focus on data engineering, I share insights throu
 -->
 
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Data%20Engineer;Never%20Give%20Up;&font=Fira%20Code&center=true&width=440&height=45&color=A020F0&vCenter=true&size=22"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Data%20Engineer;Never%20Give%20Up;&font=Fira%20Code&center=true&width=440&height=45&color=B69495&vCenter=true&size=22"></a>
 </p> 
 
 
