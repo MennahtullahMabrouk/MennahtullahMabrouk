@@ -49,7 +49,7 @@ Studying bioinformatics with a focus on data engineering, I share insights throu
   <summary>🤩My Social Media</summary>
 <div>
   <samp>
-    <h2 align="center">You can reach me by:</h2>
+    <h2 align="center">Find Me Online</h2>
     <p align="center">
         <br/>
 
