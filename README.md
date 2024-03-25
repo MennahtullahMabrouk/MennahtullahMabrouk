@@ -45,16 +45,6 @@ Studying bioinformatics with a focus on data engineering, I share insights throu
     -->
 
   
-<head>
-  <style>
-    .toggle-list {
-      display: none;
-    }
-    .toggle:checked + .toggle-list {
-      display: block;
-    }
-  </style>
-</head>
 <body>
 
 <input type="checkbox" id="toggle" class="toggle">
