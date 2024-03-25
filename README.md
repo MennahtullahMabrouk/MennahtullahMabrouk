@@ -52,7 +52,6 @@ Studying bioinformatics with a focus on data engineering, I share insights throu
     <h2 align="center">Find Me Online</h2>
     <p align="center">
         <br/>
-<p align="center">
 <div class="container toggle-list" style="flex: 1;">
     <tr>
       <td>
