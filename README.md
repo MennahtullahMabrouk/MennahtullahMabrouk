@@ -127,7 +127,7 @@ Studying bioinformatics with a focus on data engineering, I share insights throu
 
 
 <details>
-<summary>Click to expand Tech Stack 🛠</summary>
+<summary>Tech Stack 🛠</summary>
 
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mennahmabrouk&show_icons=true&locale=en&layout=compact&theme=radical" alt="Used Languages" />
 
