@@ -153,7 +153,7 @@ Studying bioinformatics with a focus on data engineering, I share insights throu
 </details>
 
 <details>
-<summary>My GitHub Stat</summary>
+<summary>My GitHub Stats ✨</summary>
 <br>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=MennahMabrouk&show_icons=true&theme=radical&line_height=27">
