@@ -148,10 +148,9 @@ Studying bioinformatics with a focus on data engineering, I share insights throu
 ![PowerBI](https://img.shields.io/badge/PowerBI-05122A?style=for-the-badge&logo=PowerBI&logoColor=yellow)&nbsp;
 ![Tableau](https://img.shields.io/badge/Tableau-05122A?style=for-the-badge&logo=Tableau&logoColor=blue)&nbsp;
 
-</details>
-
-<br>
-
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=MennahMabrouk&show_icons=true&theme=radical&line_height=27">
 </p>
+
+</details>
+
