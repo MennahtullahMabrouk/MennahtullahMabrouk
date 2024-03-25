@@ -45,10 +45,13 @@ Studying bioinformatics with a focus on data engineering, I share insights throu
     -->
 
   
-<body>
-
-<input type="checkbox" id="toggle" class="toggle">
-<label for="toggle">My Social Media</label>
+<details>
+  <summary>☎️ contact me</summary>
+<div>
+  <samp>
+    <h2 align="center">you can reach me by:</h2>
+    <p align="center">
+        <br/>
 
 <div class="container toggle-list" style="flex: 1;">
   <img align="left" src="https://github.com/MennahMabrouk/MennahMabrouk/assets/101124995/49d1371f-bfc9-4a51-a5c4-541d2faf5474" width="190" height="190">
@@ -120,6 +123,12 @@ Studying bioinformatics with a focus on data engineering, I share insights throu
   </table>
 </div>
 </body>
+
+  <br>
+  </p>
+  </samp>
+</div>
+</details>
 
 
 
