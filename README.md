@@ -52,8 +52,8 @@ Studying bioinformatics with a focus on data engineering, I share insights throu
       <h2 align="center">Find Me Online</h2>
       <p align="center">
         <br/>
-        <div class="container toggle-list" style="display: flex;">
-          <table cellspacing="20">
+        <div class="container toggle-list" style="display: flex; justify-content: center;">
+          <table cellspacing="20" align="center">
             <tr>
               <td>
                 <p align="center">
