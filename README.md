@@ -128,6 +128,7 @@ Studying bioinformatics with a focus on data engineering, I share insights throu
 
 <details>
 <summary>Tech Stack 🛠</summary>
+<br>
 
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mennahmabrouk&show_icons=true&locale=en&layout=compact&theme=radical" alt="Used Languages" />
 
@@ -147,6 +148,8 @@ Studying bioinformatics with a focus on data engineering, I share insights throu
 ![ETL](https://img.shields.io/badge/ETL-05122A?style=for-the-badge&logo=ETL&logoColor=orange)&nbsp;
 ![PowerBI](https://img.shields.io/badge/PowerBI-05122A?style=for-the-badge&logo=PowerBI&logoColor=yellow)&nbsp;
 ![Tableau](https://img.shields.io/badge/Tableau-05122A?style=for-the-badge&logo=Tableau&logoColor=blue)&nbsp;
+
+<br>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=MennahMabrouk&show_icons=true&theme=radical&line_height=27">
