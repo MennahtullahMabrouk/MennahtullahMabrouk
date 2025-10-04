@@ -130,7 +130,7 @@ Studying bioinformatics with a focus on data engineering, I share insights throu
 <summary>Tech Stack 🛠</summary>
 <br>
 
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mennahmabrouk&show_icons=true&locale=en&layout=compact&theme=radical" alt="Used Languages" />
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mennahtullahmabrouk&show_icons=true&locale=en&layout=compact&theme=radical" alt="Used Languages" />
 
 <br>
 
@@ -156,6 +156,6 @@ Studying bioinformatics with a focus on data engineering, I share insights throu
 <summary>My GitHub Stats ✨</summary>
 <br>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MennahMabrouk&show_icons=true&theme=radical&line_height=27">
+  <img src="https://github-readme-stats.vercel.app/api?username=MennahtullahMabrouk&show_icons=true&theme=radical&line_height=27">
 </p>
 </details>
