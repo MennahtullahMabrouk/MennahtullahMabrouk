@@ -1,5 +1,3 @@
-![Hello Tumblr, my commissions are open!](https://github.com/user-attachments/assets/94bf11a6-5c8c-476b-bdb6-c6a5ddd838c7)
-
 <br>
 
 <p align="center">
@@ -159,3 +157,6 @@ Studying bioinformatics with a focus on data engineering, I share insights throu
   <img src="https://github-readme-stats.vercel.app/api?username=MennahtullahMabrouk&show_icons=true&theme=radical&line_height=27">
 </p>
 </details>
+
+
+![Hello Tumblr, my commissions are open!](https://github.com/user-attachments/assets/94bf11a6-5c8c-476b-bdb6-c6a5ddd838c7)
