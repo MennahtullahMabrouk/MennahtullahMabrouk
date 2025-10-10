@@ -1,4 +1,3 @@
-![mmmsdfgh](https://github.com/user-attachments/assets/9d910aa6-ff29-4628-b253-bac23f19ba2e)
 
 
 <br>
