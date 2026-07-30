@@ -1,0 +1,35 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 340" width="100%" height="100%" shape-rendering="crispEdges" role="img" aria-label="Tool badges grid">
+  <defs>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" stop-color="#181124" />
+      <stop offset="100%" stop-color="#0D0B18" />
+    </linearGradient>
+  </defs>
+  <rect x="0" y="0" width="760" height="340" fill="url(#bg)" />
+  <g font-family="'Courier New', monospace" font-size="16" font-weight="700" letter-spacing="3">
+    <rect x="30" y="15" width="330" height="40" fill="#1e1b4b" stroke="#5B4670" stroke-width="2" rx="3" />
+    <text x="50" y="41" fill="#C084FC">PYTHON</text>
+    <rect x="400" y="15" width="330" height="40" fill="#1e1b4b" stroke="#5B4670" stroke-width="2" rx="3" />
+    <text x="420" y="41" fill="#DDD6FE">R</text>
+    <rect x="30" y="65" width="330" height="40" fill="#1e1b4b" stroke="#5B4670" stroke-width="2" rx="3" />
+    <text x="50" y="91" fill="#DDD6FE">SQL</text>
+    <rect x="400" y="65" width="330" height="40" fill="#1e1b4b" stroke="#5B4670" stroke-width="2" rx="3" />
+    <text x="420" y="91" fill="#DDD6FE">GIT</text>
+    <rect x="30" y="115" width="330" height="40" fill="#1e1b4b" stroke="#5B4670" stroke-width="2" rx="3" />
+    <text x="50" y="141" fill="#67E8F9">MYSQL</text>
+    <rect x="400" y="115" width="330" height="40" fill="#1e1b4b" stroke="#5B4670" stroke-width="2" rx="3" />
+    <text x="420" y="141" fill="#DDD6FE">GITHUB</text>
+    <rect x="30" y="165" width="330" height="40" fill="#1e1b4b" stroke="#5B4670" stroke-width="2" rx="3" />
+    <text x="50" y="191" fill="#DDD6FE">ORACLE SQL</text>
+    <rect x="400" y="165" width="330" height="40" fill="#1e1b4b" stroke="#5B4670" stroke-width="2" rx="3" />
+    <text x="420" y="191" fill="#DDD6FE">POWER BI</text>
+    <rect x="30" y="215" width="330" height="40" fill="#1e1b4b" stroke="#5B4670" stroke-width="2" rx="3" />
+    <text x="50" y="241" fill="#FDE68A">JUPYTER</text>
+    <rect x="400" y="215" width="330" height="40" fill="#1e1b4b" stroke="#5B4670" stroke-width="2" rx="3" />
+    <text x="420" y="241" fill="#DDD6FE">TABLEAU</text>
+    <rect x="30" y="265" width="330" height="40" fill="#1e1b4b" stroke="#5B4670" stroke-width="2" rx="3" />
+    <text x="50" y="291" fill="#DDD6FE">C</text>
+    <rect x="400" y="265" width="330" height="40" fill="#1e1b4b" stroke="#5B4670" stroke-width="2" rx="3" />
+    <text x="420" y="291" fill="#DDD6FE">C#</text>
+  </g>
+</svg>

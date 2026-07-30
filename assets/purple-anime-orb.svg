@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 52 52" width="52" height="52" shape-rendering="crispEdges" role="img" aria-label="Purple anime pixel orb">
+  <circle cx="26" cy="26" r="18" fill="#181124" stroke="#7C5C9E" stroke-width="2" />
+  <circle cx="26" cy="26" r="12" fill="#7C5C9E" opacity="0.6" />
+  <circle cx="26" cy="26" r="6" fill="#C084FC" opacity="0.4" />
+  <g stroke="#5B4670" stroke-width="0.8" opacity="0.5">
+    <line x1="26" y1="8" x2="26" y2="44" />
+    <line x1="8" y1="26" x2="44" y2="26" />
+  </g>
+</svg>
