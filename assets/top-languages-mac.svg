@@ -11,7 +11,7 @@
     <text x="810" y="68" fill="#F0ABFC" text-anchor="end">74%</text>
     <rect x="200" y="76" width="610" height="10" fill="#231934" rx="3" />
     <rect x="200" y="76" width="451" fill="#E0AAFF" height="10" rx="3">
-      <animate attributeName="width" values="0;451;451;0" keyTimes="0;0.4;0.6;1" dur="6s" begin="0s" repeatCount="indefinite" />
+      <animate attributeName="width" values="0;451;451;0" keyTimes="0;0.4;0.6;1" dur="6s" begin="-0.0s" repeatCount="indefinite" />
     </rect>
     <text x="40" y="108" fill="#DDD6FE">CSS</text>
     <text x="810" y="108" fill="#F0ABFC" text-anchor="end">19%</text>
@@ -23,7 +23,7 @@
     <text x="810" y="148" fill="#F0ABFC" text-anchor="end">3%</text>
     <rect x="200" y="156" width="610" height="10" fill="#231934" rx="3" />
     <rect x="200" y="156" width="18" fill="#A855F7" height="10" rx="3">
-      <animate attributeName="width" values="0;18;18;0" keyTimes="0;0.4;0.6;1" dur="6s" begin="-1s" repeatCount="indefinite" />
+      <animate attributeName="width" values="0;18;18;0" keyTimes="0;0.4;0.6;1" dur="6s" begin="-1.0s" repeatCount="indefinite" />
     </rect>
     <text x="40" y="188" fill="#DDD6FE">HTML</text>
     <text x="810" y="188" fill="#F0ABFC" text-anchor="end">2%</text>
