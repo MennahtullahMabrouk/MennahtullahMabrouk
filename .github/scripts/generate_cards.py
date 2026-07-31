@@ -152,6 +152,35 @@ def lang_color(name, index):
     return LANG_COLORS.get(name, FALLBACK_COLORS[index % len(FALLBACK_COLORS)])
 
 
+GHOST = (
+    '  <g transform="translate({x}, {y})" opacity="{opacity}">\n'
+    "    <g>\n"
+    '      <animateTransform attributeName="transform" type="translate" values="0 0; 0 -4; 0 0"'
+    ' dur="{dur}s"{begin} repeatCount="indefinite" />\n'
+    "      <g transform=\"scale({scale})\">\n"
+    '        <g fill="#E0AAFF">\n'
+    '          <rect x="2" y="0" width="8" height="1" />\n'
+    '          <rect x="1" y="1" width="10" height="1" />\n'
+    '          <rect x="0" y="2" width="12" height="7" />\n'
+    '          <rect x="0" y="9" width="4" height="1" />\n'
+    '          <rect x="5" y="9" width="3" height="1" />\n'
+    '          <rect x="9" y="9" width="3" height="1" />\n'
+    "        </g>\n"
+    '        <g fill="#181124">\n'
+    '          <rect x="3" y="4" width="2" height="2" />\n'
+    '          <rect x="8" y="4" width="2" height="2" />\n'
+    "        </g>\n"
+    "      </g>\n"
+    "    </g>\n"
+    "  </g>\n"
+)
+
+
+def ghost(x, y, scale=1.0, opacity=0.75, dur=3.6, begin=0.0):
+    begin_attr = f' begin="{begin}s"' if begin else ""
+    return GHOST.format(x=x, y=y, scale=scale, opacity=opacity, dur=dur, begin=begin_attr)
+
+
 def top_languages_svg(lang_bytes):
     total = sum(lang_bytes.values()) or 1
     ranked = sorted(lang_bytes.items(), key=lambda kv: -kv[1])[:5]
@@ -184,6 +213,9 @@ def top_languages_svg(lang_bytes):
         if bar_width:
             lines.append(f'    <rect x="200" y="{y + 8}" width="{bar_width}" fill="{color}" height="10" rx="3" />')
     lines.append('  </g>')
+    lines.append('  <!-- Floating Ghosts (random scatter, away from text/bars) -->')
+    lines.append(ghost(760, 52, 1.0, 0.7, 3.8, 0.0))
+    lines.append(ghost(58, height - 16, 0.8, 0.6, 4.6, 0.9))
     lines.append('</svg>')
     return "\n".join(lines)
 
@@ -217,6 +249,10 @@ def stats_group(stats):
 
 
 def stats_row_svg(radar_part, stats_group_xml):
+    ghosts = "".join([
+        ghost(700, 344, 0.9, 0.75, 3.6, 0.0),
+        ghost(330, 346, 0.8, 0.65, 4.4, 1.4),
+    ])
     return (
         '<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 850 360" width="100%" height="100%" '
         'shape-rendering="crispEdges" role="img" aria-label="Skill radar and GitHub stats">\n'
@@ -224,7 +260,9 @@ def stats_row_svg(radar_part, stats_group_xml):
         + radar_part.strip()
         + "\n"
         + stats_group_xml
-        + "\n</svg>\n"
+        + "\n  <!-- Floating Ghosts (random scatter, away from text) -->\n"
+        + ghosts
+        + "</svg>\n"
     )
 
 
