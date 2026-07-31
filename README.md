@@ -1,6 +1,6 @@
 <div align="center">
 
-<a href="https://cdn.jsdelivr.net/gh/MennahtullahMabrouk/MennahtullahMabrouk@main/assets/assets_maple-leaf-rag.mp3" title="Maple Leaf Rag (public domain)"><img src="https://raw.githubusercontent.com/MennahtullahMabrouk/MennahtullahMabrouk/main/assets/header-banner.svg?v=15" width="850" align="middle" alt="Profile Window"></a>
+<a href="https://cdn.jsdelivr.net/gh/MennahtullahMabrouk/MennahtullahMabrouk@main/assets/assets_maple-leaf-rag.mp3" title="Maple Leaf Rag (public domain)"><img src="https://raw.githubusercontent.com/MennahtullahMabrouk/MennahtullahMabrouk/main/assets/header-banner.svg?v=16" width="850" align="middle" alt="Profile Window"></a>
 <br>
 <img src="https://raw.githubusercontent.com/MennahtullahMabrouk/MennahtullahMabrouk/main/assets/chase-divider-1.svg?v=4" width="850" align="middle" alt="Divider">
 <br>

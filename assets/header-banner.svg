@@ -38,8 +38,7 @@
   <!-- macOS Menu Links -->
   <!-- Single Window Title -->
   <text x="400" y="22" fill="#C084FC" font-family="'Courier New', monospace" font-size="12" font-weight="bold" text-anchor="middle">Mennahtullah_Desktop.app ｜ プロフィール</text>
-  <path d="M 712 13 h 2 v 1 h -2 z M 712 14 h 2 v 1 h -2 z M 712 15 h 4 v 1 h -4 z M 712 16 h 4 v 1 h -4 z M 712 17 h 6 v 1 h -6 z M 712 18 h 4 v 1 h -4 z M 712 19 h 4 v 1 h -4 z M 712 20 h 2 v 1 h -2 z M 712 21 h 2 v 1 h -2 z M 719 16 h 1 v 1 h -1 z M 720 17 h 1 v 1 h -1 z M 719 18 h 1 v 1 h -1 z" fill="#F0ABFC" />
-  <text x="765" y="22" fill="#DDD6FE" font-family="'Courier New', monospace" font-size="12" font-weight="bold" text-anchor="end">12<tspan class="colon-blink">:</tspan>00</text>
+  <path d="M 762 14 h 1 v 1 h -1 z M 762 15 h 1 v 1 h -1 z M 762 16 h 1 v 1 h -1 z M 762 17 h 1 v 1 h -1 z M 762 18 h 1 v 1 h -1 z M 762 19 h 1 v 1 h -1 z M 764 14 h 1 v 1 h -1 z M 763 15 h 1 v 1 h -1 z M 760 20 h 3 v 1 h -3 z M 759 21 h 4 v 1 h -4 z M 760 22 h 3 v 1 h -3 z" fill="#F0ABFC" />
 
   <!-- Content Section -->
   <g transform="translate(40, 62)">
