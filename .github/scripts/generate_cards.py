@@ -152,10 +152,13 @@ def lang_color(name, index):
     return LANG_COLORS.get(name, FALLBACK_COLORS[index % len(FALLBACK_COLORS)])
 
 
+PURPLE_SHADES = ["#E0AAFF", "#C084FC", "#A855F7", "#8B5CF6", "#7C3AED"]
+
+
 def top_languages_svg(lang_bytes):
     total = sum(lang_bytes.values()) or 1
     ranked = sorted(lang_bytes.items(), key=lambda kv: -kv[1])[:5]
-    rows = [(name, round(b * 100 / total), lang_color(name, i))
+    rows = [(name, round(b * 100 / total), PURPLE_SHADES[i % len(PURPLE_SHADES)])
             for i, (name, b) in enumerate(ranked)]
     rows = [row for row in rows if row[1] >= 1]
     if not rows:

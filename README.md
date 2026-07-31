@@ -24,7 +24,7 @@
 <br>
 <img src="https://raw.githubusercontent.com/MennahtullahMabrouk/MennahtullahMabrouk/main/assets/chase-divider-5.svg?v=1" width="850" align="middle" alt="Divider">
 <br>
-<img src="https://raw.githubusercontent.com/MennahtullahMabrouk/MennahtullahMabrouk/main/assets/top-languages-mac.svg?v=11" width="850" align="middle" alt="Top Languages">
+<img src="https://raw.githubusercontent.com/MennahtullahMabrouk/MennahtullahMabrouk/main/assets/top-languages-mac.svg?v=12" width="850" align="middle" alt="Top Languages">
 <br>
 <img src="https://raw.githubusercontent.com/MennahtullahMabrouk/MennahtullahMabrouk/output/github-contribution-grid-snake-dark.svg?v=3" width="850" align="middle" alt="Contribution Snake">
 <br>
