@@ -1,10 +1,10 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="800" height="240" viewBox="0 0 800 240" fill="none" role="img" aria-label="Profile window">
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="240" viewBox="0 0 800 240" fill="none" role="img" aria-label="Profile window with gothic chibi OC">
   <rect x="0" y="0" width="800" height="240" fill="#181124" />
 
-  <!-- Outer Window Frame -->
+  <!-- Original Clean Outer Shell -->
   <rect x="2" y="2" width="796" height="236" rx="8" fill="#181124" stroke="#5B4670" stroke-width="2"/>
 
-  <!-- Mac Window Header Bar with Japanese -->
+  <!-- Mac Window Header -->
   <path d="M 2 28 L 798 28" stroke="#5B4670" stroke-width="1.5"/>
   <circle cx="20" cy="15" r="4" fill="#FF5F56"/>
   <circle cx="34" cy="15" r="4" fill="#FFBD2E"/>
@@ -15,7 +15,7 @@
   <text x="40" y="72" fill="#F0ABFC" font-family="'Courier New', monospace" font-size="22" font-weight="900" letter-spacing="1">MENNAHTULLAH MABROUK</text>
   <text x="40" y="96" fill="#A855F7" font-family="'Courier New', monospace" font-size="12" font-weight="bold" letter-spacing="2">BIOINFORMATICS &amp; TECH</text>
 
-  <!-- Bio Body Text -->
+  <!-- Bio Text -->
   <g fill="#DDD6FE" font-family="'Courier New', monospace" font-size="11">
     <text x="40" y="130">Bioinformatician in training, tech builder,</text>
     <text x="40" y="148">and technical creator by habit.</text>
@@ -28,16 +28,68 @@
   <rect x="42" y="208" width="150" height="8" rx="2" fill="#C084FC"/>
   <text x="48" y="215" fill="#181124" font-family="'Courier New', monospace" font-size="8" font-weight="bold">RESEARCH 70%</text>
 
-  <!-- CLEAN RETRO PIXEL SPARKLES (Replaces glitchy dots) -->
+  <!-- Ground Shadow Under Chibi -->
+  <ellipse cx="712" cy="178" rx="44" ry="6" fill="#0D0B18" opacity="0.55" />
+
+  <!-- Gothic Chibi OC (desktop pet) -->
+  <g transform="translate(648,48) scale(4)">
+    <rect x="6" y="2" width="20" height="28" fill="#A855F7" opacity="0.15"/>
+    <rect x="5" y="10" width="22" height="20" fill="#4C1D95"/>
+    <rect x="4" y="14" width="24" height="15" fill="#3B0764"/>
+    <rect x="3" y="18" width="26" height="10" fill="#2E1065"/>
+    <rect x="2" y="14" width="5" height="2" fill="#FCE7F3"/>
+    <rect x="1" y="15" width="4" height="1" fill="#FBCFE8"/>
+    <rect x="25" y="14" width="5" height="2" fill="#FCE7F3"/>
+    <rect x="27" y="15" width="4" height="1" fill="#FBCFE8"/>
+    <rect x="7" y="10" width="18" height="13" fill="#FCE7F3"/>
+    <rect x="9" y="22" width="14" height="2" fill="#FCE7F3"/>
+    <rect x="8" y="19" width="3" height="2" fill="#F472B6" opacity="0.6"/>
+    <rect x="21" y="19" width="3" height="2" fill="#F472B6" opacity="0.6"/>
+    <rect x="8" y="13" width="7" height="6" fill="#0F0716"/>
+    <rect x="17" y="13" width="7" height="6" fill="#0F0716"/>
+    <rect x="9" y="14" width="5" height="4" fill="#C084FC"/>
+    <rect x="18" y="14" width="5" height="4" fill="#C084FC"/>
+    <rect x="10" y="15" width="3" height="3" fill="#E879F9"/>
+    <rect x="19" y="15" width="3" height="3" fill="#E879F9"/>
+    <rect x="9" y="14" width="2" height="2" fill="#FFFFFF"/>
+    <rect x="18" y="14" width="2" height="2" fill="#FFFFFF"/>
+    <rect x="12" y="16" width="1" height="1" fill="#FFFFFF"/>
+    <rect x="21" y="16" width="1" height="1" fill="#FFFFFF"/>
+    <rect x="15" y="21" width="2" height="1" fill="#9D174D"/>
+    <rect x="7" y="8" width="18" height="4" fill="#7E22CE"/>
+    <rect x="9" y="6" width="14" height="3" fill="#A855F7"/>
+    <rect x="6" y="11" width="3" height="8" fill="#7E22CE"/>
+    <rect x="23" y="11" width="3" height="8" fill="#7E22CE"/>
+    <rect x="10" y="11" width="3" height="3" fill="#7E22CE"/>
+    <rect x="19" y="11" width="3" height="3" fill="#7E22CE"/>
+    <rect x="15" y="10" width="2" height="3" fill="#6B21A8"/>
+    <rect x="13" y="23" width="6" height="1" fill="#000000"/>
+    <rect x="11" y="24" width="10" height="1" fill="#F3E8FF"/>
+    <rect x="12" y="25" width="8" height="1" fill="#E9D5FF"/>
+    <rect x="15" y="25" width="2" height="2" fill="#0F0716"/>
+    <rect x="13" y="25" width="2" height="1" fill="#1F112B"/>
+    <rect x="17" y="25" width="2" height="1" fill="#1F112B"/>
+    <rect x="8" y="26" width="16" height="6" fill="#4C1D95"/>
+    <rect x="7" y="28" width="18" height="4" fill="#3B0764"/>
+    <rect x="8" y="27" width="16" height="1" fill="#1E1B4B"/>
+    <rect x="7" y="30" width="18" height="1" fill="#1E1B4B"/>
+    <rect x="6" y="25" width="3" height="4" fill="#581C87"/>
+    <rect x="23" y="25" width="3" height="4" fill="#581C87"/>
+    <rect x="5" y="28" width="3" height="2" fill="#E9D5FF" opacity="0.7"/>
+    <rect x="24" y="28" width="3" height="2" fill="#E9D5FF" opacity="0.7"/>
+    <path d="M 3 5 h 1 v 3 h -1 z M 2 6 h 3 v 1 h -3 z" fill="#F0ABFC"/>
+    <path d="M 28 7 h 1 v 3 h -1 z M 27 8 h 3 v 1 h -3 z" fill="#F0ABFC"/>
+  </g>
+
+  <!-- Online status dot -->
+  <rect x="764" y="56" width="8" height="8" rx="2" fill="#72EFDD" stroke="#181124" stroke-width="1" />
+
+  <!-- Chibi Name Tag -->
+  <text x="712" y="198" fill="#C084FC" font-family="'Courier New', monospace" font-size="10" font-weight="bold" text-anchor="middle" letter-spacing="1">minmin.app</text>
+
+  <!-- Clean Pixel Sparkles (No noisy clusters) -->
   <g fill="#F0ABFC">
-    <!-- Big Sparkle Top Right -->
-    <path d="M 720 50 h 2 v 10 h -2 z M 716 54 h 10 v 2 h -10 z" />
-    <circle cx="721" cy="55" r="1" fill="#FFFFFF"/>
-
-    <!-- Small Sparkle Bottom Right -->
-    <path d="M 670 170 h 2 v 6 h -2 z M 668 172 h 6 v 2 h -6 z" />
-
-    <!-- Cute Tiny Sparkle Near Title -->
-    <path d="M 600 80 h 2 v 6 h -2 z M 598 82 h 6 v 2 h -6 z" opacity="0.6"/>
+    <path d="M 600 50 h 2 v 8 h -2 z M 597 53 h 8 v 2 h -8 z" />
+    <path d="M 620 180 h 2 v 6 h -2 z M 618 182 h 6 v 2 h -6 z" opacity="0.7"/>
   </g>
 </svg>

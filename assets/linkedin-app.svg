@@ -1,8 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 220 44" width="100%" height="100%" shape-rendering="crispEdges" role="img" aria-label="linkedin.app">
-  <rect x="0" y="0" width="220" height="44" fill="#2A1E3F" />
-  <rect x="1" y="1" width="218" height="42" fill="none" stroke="#E0AAFF" stroke-width="2" rx="9" opacity="0.3" />
-  <rect x="3" y="3" width="214" height="38" fill="#2A1E3F" stroke="#9D4EDD" stroke-width="1.5" rx="7" />
-  <rect x="3" y="3" width="214" height="12" fill="#FFFFFF" opacity="0.06" rx="7" />
-  <path d="M 208 17 h 2 v 8 h -2 z M 205 20 h 8 v 2 h -8 z" fill="#F0ABFC" />
-  <text x="110" y="28" fill="#F1E7FE" font-family="'Courier New', monospace" font-size="13" font-weight="bold" text-anchor="middle" letter-spacing="1">linkedin.app</text>
+  <rect x="0" y="0" width="220" height="44" fill="#181124" />
+  <rect x="2" y="2" width="216" height="40" fill="#181124" stroke="#5B4670" stroke-width="1.5" rx="6" />
+  <path d="M 206 17 h 2 v 8 h -2 z M 203 20 h 8 v 2 h -8 z" fill="#F0ABFC" />
+  <text x="110" y="28" fill="#C084FC" font-family="'Courier New', monospace" font-size="13" font-weight="bold" text-anchor="middle" letter-spacing="1">linkedin.app</text>
 </svg>
