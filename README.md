@@ -28,7 +28,7 @@
 <br>
 <img src="https://raw.githubusercontent.com/MennahtullahMabrouk/MennahtullahMabrouk/output/github-contribution-grid-snake-dark.svg?v=3" width="850" align="middle" alt="Contribution Snake">
 <br>
-<img src="https://raw.githubusercontent.com/MennahtullahMabrouk/MennahtullahMabrouk/main/assets/status-bar.svg?v=12" width="850" align="middle" alt="System status">
+<img src="https://raw.githubusercontent.com/MennahtullahMabrouk/MennahtullahMabrouk/main/assets/status-bar.svg?v=13" width="850" align="middle" alt="System status">
 <br>
 <img src="https://raw.githubusercontent.com/MennahtullahMabrouk/MennahtullahMabrouk/main/assets/chase-divider-6.svg?v=1" width="850" align="middle" alt="Divider">
 
