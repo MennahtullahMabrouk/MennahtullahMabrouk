@@ -72,7 +72,7 @@
   <rect x="2" y="2" width="796" height="156" rx="8" fill="#181124" stroke="#5B4670" stroke-width="2"/>
 
   <!-- UI Score Overlay -->
-  <text x="30" y="28" fill="#F0ABFC" font-family="'Courier New', monospace" font-size="11" font-weight="bold">STAGE 22: MINMIN_RUN.EXE ｜ ミンミン・ラン</text>
+  <text x="30" y="28" fill="#F0ABFC" font-family="'Courier New', monospace" font-size="11" font-weight="bold">STAGE 22: MINMIN_LIFE.app ｜ ミンミン・ライフ</text>
   <text x="770" y="28" fill="#C084FC" font-family="'Courier New', monospace" font-size="11" font-weight="bold" text-anchor="end">SCORE 002004</text>
 
   <!-- Floating Pixel Stars (Parallax Background) -->
