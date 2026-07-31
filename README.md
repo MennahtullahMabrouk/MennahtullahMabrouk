@@ -1,5 +1,7 @@
-<div align="center" style="background-color: #181124;">
-<img src="https://raw.githubusercontent.com/MennahtullahMabrouk/MennahtullahMabrouk/main/assets/mac-pixel-menubar.svg?v=3" width="850" alt="Mac Pixel Menu Bar" style="display: block; margin: 0 auto; vertical-align: bottom;">
+<table align="center" width="850" bgcolor="#181124" style="border-collapse: collapse; background-color: #181124; margin: 0 auto;">
+<tr>
+<td bgcolor="#181124" style="background-color: #181124; padding: 0;">
+<img src="https://raw.githubusercontent.com/MennahtullahMabrouk/MennahtullahMabrouk/main/assets/mac-pixel-menubar.svg?v=4" width="850" alt="Mac Pixel Menu Bar" style="display: block; margin: 0; padding: 0;">
 <table align="center" width="850" style="border-collapse: collapse; border: 2px solid #5B4670; border-top: none; background-color: #181124; margin-top: 0; margin-bottom: 0;">
 <tr>
 <td align="center" bgcolor="#181124" style="background-color: #181124; padding: 12px; border: none;">
@@ -45,14 +47,16 @@
 <td align="center" width="50%" bgcolor="#181124" style="border: none; background-color: #181124; padding: 6px;">
 <img src="https://raw.githubusercontent.com/MennahtullahMabrouk/MennahtullahMabrouk/output/github-contribution-grid-snake-dark.svg?v=2" width="370" alt="Contribution Snake">
 <br><br>
-<sub><code>> every commit feeds the snake.app</code></sub>
+<sub><code style="background-color: #181124; color: #5B4670; font-family: 'Courier New', monospace; padding: 0;">&gt; every commit feeds the snake.app</code></sub>
 </td>
 </tr>
 </table>
 <br><br>
-<sub><code>[ SYSTEM: ONLINE ] &nbsp;|&nbsp; [ STATUS: ACTIVE ] &nbsp;|&nbsp; [ MODE: MACOS ]</code></sub>
+<sub><code style="background-color: #181124; color: #5B4670; font-family: 'Courier New', monospace; padding: 0;">[ SYSTEM: ONLINE ] &nbsp;|&nbsp; [ STATUS: ACTIVE ] &nbsp;|&nbsp; [ MODE: MACOS ]</code></sub>
 <br><br>
 </td>
 </tr>
 </table>
-</div>
+</td>
+</tr>
+</table>
