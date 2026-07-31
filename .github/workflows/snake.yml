@@ -25,6 +25,10 @@ jobs:
             dist/github-contribution-grid-snake.svg
             dist/github-contribution-grid-snake-dark.svg?color_snake=#C084FC&color_dots=#251A38,#3B2758,#5B4670,#8B5CF6,#D8B4FE
 
+      - name: Bake purple background into dark snake SVG
+        run: |
+          sed -i 's/\(<svg[^>]*>\)/\1<rect x="-100%" y="-100%" width="300%" height="300%" fill="#181124"\/>/' dist/github-contribution-grid-snake-dark.svg
+
       - name: Publish snake animation to output branch
         uses: crazy-max/ghaction-github-pages@v4
         with:
