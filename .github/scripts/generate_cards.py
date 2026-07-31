@@ -51,8 +51,8 @@ MOCK_DATA = {
 }
 
 LANG_COLORS = {
-    "Python": "#C084FC",
-    "Jupyter Notebook": "#FB923C",
+    "Python": "#C77DFF",
+    "Jupyter Notebook": "#FFB7B2",
     "R": "#A855F7",
     "Shell": "#818CF8",
     "Bash": "#818CF8",
@@ -63,8 +63,8 @@ LANG_COLORS = {
     "C#": "#60A5FA",
     "TypeScript": "#3B82F6",
     "JavaScript": "#FACC15",
-    "HTML": "#F0ABFC",
-    "CSS": "#F472B6",
+    "HTML": "#72EFDD",
+    "CSS": "#FF85A1",
     "TeX": "#22D3EE",
     "Java": "#F87171",
     "MATLAB": "#FDBA74",
@@ -165,8 +165,8 @@ def top_languages_svg(lang_bytes):
         f'<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 850 {height}" width="100%" height="100%" '
         f'shape-rendering="crispEdges" role="img" aria-label="Top languages">',
         f'  <rect x="0" y="0" width="850" height="{height}" fill="#181124" />',
-        f'  <rect x="2" y="2" width="846" height="{height - 4}" rx="8" fill="#181124" stroke="#5B4670" stroke-width="2"/>',
-        '  <path d="M 2 30 L 848 30" stroke="#5B4670" stroke-width="1.5"/>',
+        f'  <rect x="2" y="2" width="846" height="{height - 4}" rx="8" fill="#181124" stroke="#3C2A58" stroke-width="2"/>',
+        '  <path d="M 2 30 L 848 30" stroke="#3C2A58" stroke-width="1.5"/>',
         '  <circle cx="20" cy="16" r="4" fill="#FF5F56"/>',
         '  <circle cx="34" cy="16" r="4" fill="#FFBD2E"/>',
         '  <circle cx="48" cy="16" r="4" fill="#27C93F"/>',
@@ -180,7 +180,7 @@ def top_languages_svg(lang_bytes):
         bar_width = max(4, int(round(610 * pct / 100))) if pct > 0 else 0
         lines.append(f'    <text x="40" y="{y}" fill="#DDD6FE">{escape(display)}</text>')
         lines.append(f'    <text x="810" y="{y}" fill="#F0ABFC" text-anchor="end">{pct}%</text>')
-        lines.append(f'    <rect x="200" y="{y + 8}" width="610" height="10" fill="#2D2244" rx="3" />')
+        lines.append(f'    <rect x="200" y="{y + 8}" width="610" height="10" fill="#231934" rx="3" />')
         if bar_width:
             lines.append(f'    <rect x="200" y="{y + 8}" width="{bar_width}" fill="{color}" height="10" rx="3" />')
     lines.append('  </g>')

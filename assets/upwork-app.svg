@@ -1,9 +1,8 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 220 44" width="100%" height="100%" shape-rendering="crispEdges" role="img" aria-label="Upwork.app">
-  <rect x="0" y="0" width="220" height="44" fill="#181124" />
-  <rect x="2" y="2" width="216" height="40" fill="#181124" stroke="#5B4670" stroke-width="1.5" rx="4" />
-  <line x1="6" y1="5" x2="214" y2="5" stroke="#3D2B52" stroke-width="1" />
-  <text x="105" y="27" fill="#C084FC" font-family="'Courier New', monospace" font-size="12" font-weight="bold" text-anchor="middle" letter-spacing="1">Upwork.app</text>
-  <g fill="#F0ABFC" transform="translate(188, 16)">
-    <path d="M 1 0 H 3 V 1 H 4 V 3 H 3 V 4 H 2 V 5 H 1 V 3 H 0 V 1 H 1 Z" transform="scale(1.4)" />
-  </g>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 220 44" width="100%" height="100%" shape-rendering="crispEdges" role="img" aria-label="upwork.app">
+  <rect x="0" y="0" width="220" height="44" fill="#2A1E3F" />
+  <rect x="1" y="1" width="218" height="42" fill="none" stroke="#E0AAFF" stroke-width="2" rx="9" opacity="0.3" />
+  <rect x="3" y="3" width="214" height="38" fill="#2A1E3F" stroke="#9D4EDD" stroke-width="1.5" rx="7" />
+  <rect x="3" y="3" width="214" height="12" fill="#FFFFFF" opacity="0.06" rx="7" />
+  <rect x="204" y="9" width="7" height="7" fill="#FF85A1" rx="2" />
+  <text x="110" y="28" fill="#F1E7FE" font-family="'Courier New', monospace" font-size="13" font-weight="bold" text-anchor="middle" letter-spacing="1">upwork.app 🌸</text>
 </svg>
