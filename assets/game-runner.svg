@@ -98,7 +98,7 @@
 
     <!-- Long Back Regal Hair (Flowing Down to Waist, Sways With Front) -->
     <g class="queen-hair">
-      <path d="M 16 36 C 10 46, -2 64, -6 92 C 6 96, 16 94, 22 86 C 19 70, 18 54, 18 44 Z" fill="#2E1065"/>
+      <path d="M 16 36 C 10 46, -2 64, -6 92 C 6 96, 16 94, 22 86 C 19 70, 18 54, 18 44 Z" fill="#4C1D95"/>
     </g>
 
     <!-- Prominent Regal Elf Ear -->
@@ -132,9 +132,9 @@
     <!-- QUEEN HAIR (ONE DARK PURPLE SET, SWAYS TOGETHER WITH BACK) -->
     <g class="queen-hair">
       <!-- Crown Framing Lock -->
-      <path d="M 18 38 C 26 34, 36 34, 42 40 C 40 44, 38 50, 37 54 C 33 48, 26 46, 18 50 Z" fill="#2E1065"/>
+      <path d="M 18 38 C 26 34, 36 34, 42 40 C 40 44, 38 50, 37 54 C 33 48, 26 46, 18 50 Z" fill="#4C1D95"/>
       <!-- Strand Draping Over Front Shoulder & Chest -->
-      <path d="M 22 44 C 26 48, 28 60, 27 78 C 22 76, 18 68, 17 56 Z" fill="#2E1065"/>
+      <path d="M 22 44 C 26 48, 28 60, 27 78 C 22 76, 18 68, 17 56 Z" fill="#4C1D95"/>
     </g>
 
     <!-- RUNNING / JUMPING LEGS (FRAME 1) -->
