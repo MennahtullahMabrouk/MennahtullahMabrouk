@@ -69,5 +69,9 @@
     <text x="360" y="205" fill="#F0ABFC" font-family="'Courier New', monospace" font-size="12" font-weight="bold" text-anchor="end">51</text>
     <rect x="20" y="235" width="340" height="12" fill="#2D2244" rx="3" />
     <rect x="20" y="235" width="280" height="12" fill="#C084FC" rx="3" />
+    <rect x="20" y="235" width="70" height="12" fill="#FFFFFF" opacity="0" rx="3">
+      <animate attributeName="opacity" values="0;0.35;0.35;0" keyTimes="0;0.12;0.88;1" dur="2.8s" begin="0.6s" repeatCount="indefinite" />
+      <animateTransform attributeName="transform" type="translate" values="0 0;270 0;0 0" keyTimes="0;0.5;1" dur="2.8s" begin="0.6s" repeatCount="indefinite" />
+    </rect>
   </g>
 </svg>

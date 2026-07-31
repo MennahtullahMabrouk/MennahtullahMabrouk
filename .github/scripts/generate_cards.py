@@ -183,6 +183,14 @@ def top_languages_svg(lang_bytes):
         lines.append(f'    <rect x="200" y="{y + 8}" width="610" height="10" fill="#231934" rx="3" />')
         if bar_width:
             lines.append(f'    <rect x="200" y="{y + 8}" width="{bar_width}" fill="{color}" height="10" rx="3" />')
+        lines.append(
+            f'    <rect x="200" y="{y + 8}" width="70" height="10" fill="#FFFFFF" opacity="0" rx="3">\n'
+            f'      <animate attributeName="opacity" values="0;0.35;0.35;0" keyTimes="0;0.12;0.88;1" '
+            f'dur="2.8s" begin="{0.7 + i * 0.4:.1f}s" repeatCount="indefinite" />\n'
+            f'      <animateTransform attributeName="transform" type="translate" values="0 0;540 0;0 0" '
+            f'keyTimes="0;0.5;1" dur="2.8s" begin="{0.7 + i * 0.4:.1f}s" repeatCount="indefinite" />\n'
+            f'    </rect>'
+        )
     lines.append('  </g>')
     lines.append('</svg>')
     return "\n".join(lines)
@@ -211,6 +219,12 @@ def stats_group(stats):
     lines += [
         '    <rect x="20" y="235" width="340" height="12" fill="#2D2244" rx="3" />',
         '    <rect x="20" y="235" width="280" height="12" fill="#C084FC" rx="3" />',
+        '    <rect x="20" y="235" width="70" height="12" fill="#FFFFFF" opacity="0" rx="3">',
+        '      <animate attributeName="opacity" values="0;0.35;0.35;0" keyTimes="0;0.12;0.88;1" '
+        'dur="2.8s" begin="0.6s" repeatCount="indefinite" />',
+        '      <animateTransform attributeName="transform" type="translate" values="0 0;270 0;0 0" '
+        'keyTimes="0;0.5;1" dur="2.8s" begin="0.6s" repeatCount="indefinite" />',
+        '    </rect>',
         '  </g>',
     ]
     return "\n".join(lines)
