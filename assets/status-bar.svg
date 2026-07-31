@@ -1,4 +1,15 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 850 50" width="100%" height="100%" shape-rendering="crispEdges" role="img" aria-label="System status bar">
+  <style>
+    .star-rot { transform-origin: 760px 25px; animation: rot 3s linear infinite; }
+    .star-blink { animation: starTwinkle 1.8s steps(2) infinite; }
+    @keyframes rot {
+      100% { transform: rotate(360deg); }
+    }
+    @keyframes starTwinkle {
+      0%, 100% { opacity: 1; }
+      50% { opacity: 0.1; }
+    }
+  </style>
   <rect x="0" y="0" width="850" height="50" fill="#181124" />
   <g transform="translate(24, 18)">
     <g>
@@ -24,6 +35,59 @@
       </g>
     </g>
   </g>
+  <g transform="translate(120, 20)">
+    <g>
+      <animateTransform attributeName="transform" type="translate" values="0 0; 0 -4; 0 0" dur="2.0s" begin="0.6s" repeatCount="indefinite" />
+      <g transform="scale(1.7)">
+        <g fill="#E0AAFF">
+          <rect x="4" y="0" width="6" height="1" />
+          <rect x="3" y="1" width="8" height="1" />
+          <rect x="2" y="2" width="10" height="3" />
+          <rect x="2" y="5" width="10" height="1" />
+          <rect x="3" y="6" width="2" height="2" />
+          <rect x="6" y="6" width="2" height="2" />
+          <rect x="9" y="6" width="2" height="2" />
+        </g>
+        <g fill="#181124">
+          <rect x="4" y="3" width="2" height="2" />
+          <rect x="8" y="3" width="2" height="2" />
+        </g>
+        <g fill="#FF85A1" opacity="0.85">
+          <rect x="2" y="4" width="1" height="1" />
+          <rect x="11" y="4" width="1" height="1" />
+        </g>
+      </g>
+    </g>
+  </g>
+  <g transform="translate(690, 22)">
+    <g>
+      <animateTransform attributeName="transform" type="translate" values="0 0; 0 -2; 0 0" dur="3.0s" begin="1.2s" repeatCount="indefinite" />
+      <g transform="scale(1.7)">
+        <g fill="#E0AAFF">
+          <rect x="4" y="0" width="6" height="1" />
+          <rect x="3" y="1" width="8" height="1" />
+          <rect x="2" y="2" width="10" height="3" />
+          <rect x="2" y="5" width="10" height="1" />
+          <rect x="3" y="6" width="2" height="2" />
+          <rect x="6" y="6" width="2" height="2" />
+          <rect x="9" y="6" width="2" height="2" />
+        </g>
+        <g fill="#181124">
+          <rect x="4" y="3" width="2" height="2" />
+          <rect x="8" y="3" width="2" height="2" />
+        </g>
+        <g fill="#FF85A1" opacity="0.85">
+          <rect x="2" y="4" width="1" height="1" />
+          <rect x="11" y="4" width="1" height="1" />
+        </g>
+      </g>
+    </g>
+  </g>
   <text x="425" y="30" fill="#A78BFA" font-family="'Courier New', monospace" font-size="13" letter-spacing="1" text-anchor="middle">[ 🍡 SYSTEM: ONLINE ]&#160;|&#160;[ 🎀 STATUS: BUILDING ]&#160;|&#160;[ 🧋 MODE: MACOS ]</text>
-  <path d="M 759 21 h 2 v 8 h -2 z M 756 24 h 8 v 2 h -8 z" fill="#F0ABFC" />
+  <g class="star-rot">
+    <g class="star-blink">
+      <path d="M 760 21 h 1 v 1 h -1 z M 759 22 h 3 v 1 h -3 z M 758 23 h 5 v 1 h -5 z M 757 24 h 7 v 1 h -7 z M 756 25 h 9 v 1 h -9 z M 757 26 h 7 v 1 h -7 z M 758 27 h 5 v 1 h -5 z M 759 28 h 3 v 1 h -3 z M 760 29 h 1 v 1 h -1 z" fill="#F0ABFC" />
+      <rect x="760" y="25" width="1" height="1" fill="#FFFFFF" />
+    </g>
+  </g>
 </svg>
