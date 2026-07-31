@@ -128,6 +128,12 @@
 
     <circle cx="18" cy="69" r="4.5" fill="#581C87"/>
 
+    <!-- Side Hands with Lace Cuffs -->
+    <rect x="11" y="70" width="3" height="4" fill="#FCE7F3"/>
+    <rect x="11" y="74" width="3" height="1" fill="#F3E8FF"/>
+    <rect x="40" y="70" width="3" height="4" fill="#FCE7F3"/>
+    <rect x="40" y="74" width="3" height="1" fill="#F3E8FF"/>
+
     <!-- FLAWLESS QUEEN SHOULDER HAIR (PARTED FRONT LOCKS) -->
     <g class="queen-hair">
       <!-- Crown Framing Locks -->
