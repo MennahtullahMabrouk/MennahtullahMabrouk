@@ -1,10 +1,10 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/MennahtullahMabrouk/MennahtullahMabrouk/main/assets/mac-pixel-menubar.svg" width="850" alt="Mac Pixel Menu Bar">
+<img src="https://raw.githubusercontent.com/MennahtullahMabrouk/MennahtullahMabrouk/main/assets/mac-pixel-menubar.svg?v=2" width="850" alt="Mac Pixel Menu Bar" style="display: block; margin: 0 auto;">
 
-<table align="center" width="850" style="border-collapse: collapse; border: 2px solid #5B4670; background-color: #181124;">
+<table align="center" width="850" style="border-collapse: collapse; border: 2px solid #5B4670; border-top: none; background-color: #181124; margin-top: 0;">
 <tr>
-<td align="center" style="background-color: #181124; padding: 20px;">
+<td align="center" style="background-color: #181124; padding: 12px 12px 12px 12px; border: none;">
 <img src="https://raw.githubusercontent.com/MennahtullahMabrouk/MennahtullahMabrouk/main/assets/purple-bio-banner.svg" alt="Bio Banner" width="800">
 <br><br>
 <img src="https://raw.githubusercontent.com/MennahtullahMabrouk/MennahtullahMabrouk/main/assets/purple-anime-sparkle.svg" width="35" alt="Pixel sparkle">
