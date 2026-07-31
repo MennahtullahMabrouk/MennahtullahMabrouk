@@ -1,0 +1,50 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 850 60" width="100%" height="100%" shape-rendering="crispEdges" role="img" aria-label="Ghost chase divider">
+  <style>
+    .run-lead { animation: runbob 0.5s ease-in-out infinite; }
+    .run-chase { animation: runbob 0.5s ease-in-out infinite; animation-delay: -0.25s; }
+    @keyframes runbob {
+      0%, 100% { transform: translateY(0) translateX(0); }
+      25% { transform: translateY(-3px) translateX(2px); }
+      50% { transform: translateY(0) translateX(4px); }
+      75% { transform: translateY(-3px) translateX(2px); }
+    }
+  </style>
+  <rect x="0" y="0" width="850" height="60" fill="#181124" />
+
+  <g transform="translate(360, 30)">
+    <g class="run-chase">
+      <g transform="scale(1.5)">
+        <g fill="#E0AAFF">
+          <rect x="2" y="0" width="8" height="1" />
+          <rect x="1" y="1" width="10" height="1" />
+          <rect x="0" y="2" width="12" height="7" />
+          <rect x="0" y="9" width="4" height="1" />
+          <rect x="5" y="9" width="3" height="1" />
+          <rect x="9" y="9" width="3" height="1" />
+        </g>
+        <g fill="#181124">
+          <rect x="3" y="4" width="2" height="2" />
+          <rect x="8" y="4" width="2" height="2" />
+        </g>
+      </g>
+    </g>
+  </g>
+  <g transform="translate(430, 30)">
+    <g class="run-lead">
+      <g transform="scale(1.5)">
+        <g fill="#E0AAFF">
+          <rect x="2" y="0" width="8" height="1" />
+          <rect x="1" y="1" width="10" height="1" />
+          <rect x="0" y="2" width="12" height="7" />
+          <rect x="0" y="9" width="4" height="1" />
+          <rect x="5" y="9" width="3" height="1" />
+          <rect x="9" y="9" width="3" height="1" />
+        </g>
+        <g fill="#181124">
+          <rect x="3" y="4" width="2" height="2" />
+          <rect x="8" y="4" width="2" height="2" />
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>

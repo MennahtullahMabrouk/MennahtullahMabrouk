@@ -11,59 +11,26 @@
     }
   </style>
   <rect x="0" y="0" width="850" height="50" fill="#181124" />
-  <g transform="translate(18, 16)">
+  <g transform="translate(24, 18)">
     <g>
       <animateTransform attributeName="transform" type="translate" values="0 0; 0 -3; 0 0" dur="2.4s" repeatCount="indefinite" />
       <g transform="scale(1.7)">
         <g fill="#E0AAFF">
-          <rect x="2" y="0" width="8" height="1" />
-          <rect x="1" y="1" width="10" height="1" />
-          <rect x="0" y="2" width="12" height="7" />
-          <rect x="0" y="9" width="4" height="1" />
-          <rect x="5" y="9" width="3" height="1" />
-          <rect x="9" y="9" width="3" height="1" />
+          <rect x="4" y="0" width="6" height="1" />
+          <rect x="3" y="1" width="8" height="1" />
+          <rect x="2" y="2" width="10" height="3" />
+          <rect x="2" y="5" width="10" height="1" />
+          <rect x="3" y="6" width="2" height="2" />
+          <rect x="6" y="6" width="2" height="2" />
+          <rect x="9" y="6" width="2" height="2" />
         </g>
         <g fill="#181124">
-          <rect x="3" y="4" width="2" height="2" />
-          <rect x="8" y="4" width="2" height="2" />
+          <rect x="4" y="3" width="2" height="2" />
+          <rect x="8" y="3" width="2" height="2" />
         </g>
-      </g>
-    </g>
-  </g>
-  <g transform="translate(132, 30)">
-    <g>
-      <animateTransform attributeName="transform" type="translate" values="0 0; 0 -5; 0 0" dur="2.0s" begin="0.6s" repeatCount="indefinite" />
-      <g transform="scale(1.25)">
-        <g fill="#E0AAFF">
-          <rect x="2" y="0" width="8" height="1" />
-          <rect x="1" y="1" width="10" height="1" />
-          <rect x="0" y="2" width="12" height="7" />
-          <rect x="0" y="9" width="4" height="1" />
-          <rect x="5" y="9" width="3" height="1" />
-          <rect x="9" y="9" width="3" height="1" />
-        </g>
-        <g fill="#181124">
-          <rect x="3" y="4" width="2" height="2" />
-          <rect x="8" y="4" width="2" height="2" />
-        </g>
-      </g>
-    </g>
-  </g>
-  <g transform="translate(680, 18)">
-    <g>
-      <animateTransform attributeName="transform" type="translate" values="0 0; 0 -2; 0 0" dur="3.0s" begin="1.2s" repeatCount="indefinite" />
-      <g transform="scale(1.6)">
-        <g fill="#E0AAFF">
-          <rect x="2" y="0" width="8" height="1" />
-          <rect x="1" y="1" width="10" height="1" />
-          <rect x="0" y="2" width="12" height="7" />
-          <rect x="0" y="9" width="4" height="1" />
-          <rect x="5" y="9" width="3" height="1" />
-          <rect x="9" y="9" width="3" height="1" />
-        </g>
-        <g fill="#181124">
-          <rect x="3" y="4" width="2" height="2" />
-          <rect x="8" y="4" width="2" height="2" />
+        <g fill="#FF85A1" opacity="0.85">
+          <rect x="2" y="4" width="1" height="1" />
+          <rect x="11" y="4" width="1" height="1" />
         </g>
       </g>
     </g>
