@@ -66,9 +66,11 @@
   <text x="700" y="204" fill="#C084FC" font-family="'Courier New', monospace" font-size="10" font-weight="bold" text-anchor="middle" letter-spacing="1">minmin.app</text>
 
   <!-- Gemini Pixel Stars -->
-  <g>
+  <g class="star-blink">
     <path d="M 600 46 h 1 v 1 h -1 z M 599 47 h 3 v 1 h -3 z M 598 48 h 5 v 1 h -5 z M 597 49 h 7 v 1 h -7 z M 596 50 h 9 v 1 h -9 z M 597 51 h 7 v 1 h -7 z M 598 52 h 5 v 1 h -5 z M 599 53 h 3 v 1 h -3 z M 600 54 h 1 v 1 h -1 z" fill="#F0ABFC" />
     <rect x="600" y="50" width="1" height="1" fill="#FFFFFF" />
+  </g>
+  <g class="star-blink-2">
     <path d="M 612 180 h 1 v 1 h -1 z M 611 181 h 3 v 1 h -3 z M 610 182 h 5 v 1 h -5 z M 609 183 h 7 v 1 h -7 z M 608 184 h 9 v 1 h -9 z M 609 185 h 7 v 1 h -7 z M 610 186 h 5 v 1 h -5 z M 611 187 h 3 v 1 h -3 z M 612 188 h 1 v 1 h -1 z" fill="#F0ABFC" />
     <rect x="612" y="184" width="1" height="1" fill="#FFFFFF" />
   </g>
