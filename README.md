@@ -1,10 +1,10 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/MennahtullahMabrouk/MennahtullahMabrouk/main/assets/header-banner.svg?v=10" width="850" align="middle" alt="Profile Window">
+<img src="https://raw.githubusercontent.com/MennahtullahMabrouk/MennahtullahMabrouk/main/assets/header-banner.svg?v=11" width="850" align="middle" alt="Profile Window">
 <br>
 <img src="https://raw.githubusercontent.com/MennahtullahMabrouk/MennahtullahMabrouk/main/assets/purple-sparkle-divider.svg?v=4" width="850" align="middle" alt="Divider">
 <br>
-<img src="https://raw.githubusercontent.com/MennahtullahMabrouk/MennahtullahMabrouk/main/assets/game-runner.svg?v=3" width="850" align="middle" alt="Astral Runner Game">
+<img src="https://raw.githubusercontent.com/MennahtullahMabrouk/MennahtullahMabrouk/main/assets/game-runner.svg?v=4" width="850" align="middle" alt="Astral Runner Game">
 <br>
 <img src="https://raw.githubusercontent.com/MennahtullahMabrouk/MennahtullahMabrouk/main/assets/purple-sparkle-divider.svg?v=4" width="850" align="middle" alt="Divider">
 <br>
@@ -16,19 +16,19 @@
 <br>
 <img src="https://raw.githubusercontent.com/MennahtullahMabrouk/MennahtullahMabrouk/main/assets/purple-sparkle-divider.svg?v=4" width="850" align="middle" alt="Divider">
 <br>
-<img src="https://raw.githubusercontent.com/MennahtullahMabrouk/MennahtullahMabrouk/main/assets/tools-pixel-grid.svg?v=7" width="850" align="middle" alt="Tool Grid">
+<img src="https://raw.githubusercontent.com/MennahtullahMabrouk/MennahtullahMabrouk/main/assets/tools-pixel-grid.svg?v=8" width="850" align="middle" alt="Tool Grid">
 <br>
 <img src="https://raw.githubusercontent.com/MennahtullahMabrouk/MennahtullahMabrouk/main/assets/purple-sparkle-divider.svg?v=4" width="850" align="middle" alt="Divider">
 <br>
-<img src="https://raw.githubusercontent.com/MennahtullahMabrouk/MennahtullahMabrouk/main/assets/stats-row.svg?v=1" width="850" align="middle" alt="Skill Stats and GitHub Stats">
+<img src="https://raw.githubusercontent.com/MennahtullahMabrouk/MennahtullahMabrouk/main/assets/stats-row.svg?v=2" width="850" align="middle" alt="Skill Stats and GitHub Stats">
 <br>
 <img src="https://raw.githubusercontent.com/MennahtullahMabrouk/MennahtullahMabrouk/main/assets/purple-sparkle-divider.svg?v=4" width="850" align="middle" alt="Divider">
 <br>
-<img src="https://raw.githubusercontent.com/MennahtullahMabrouk/MennahtullahMabrouk/main/assets/top-languages-mac.svg?v=7" width="850" align="middle" alt="Top Languages">
+<img src="https://raw.githubusercontent.com/MennahtullahMabrouk/MennahtullahMabrouk/main/assets/top-languages-mac.svg?v=8" width="850" align="middle" alt="Top Languages">
 <br>
 <img src="https://raw.githubusercontent.com/MennahtullahMabrouk/MennahtullahMabrouk/output/github-contribution-grid-snake-dark.svg?v=3" width="850" align="middle" alt="Contribution Snake">
 <br>
-<img src="https://raw.githubusercontent.com/MennahtullahMabrouk/MennahtullahMabrouk/main/assets/status-bar.svg?v=9" width="850" align="middle" alt="System status">
+<img src="https://raw.githubusercontent.com/MennahtullahMabrouk/MennahtullahMabrouk/main/assets/status-bar.svg?v=10" width="850" align="middle" alt="System status">
 <br>
 <img src="https://raw.githubusercontent.com/MennahtullahMabrouk/MennahtullahMabrouk/main/assets/purple-sparkle-divider.svg?v=4" width="850" align="middle" alt="Divider">
 
