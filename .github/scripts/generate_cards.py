@@ -171,7 +171,7 @@ def top_languages_svg(lang_bytes):
         '  <circle cx="34" cy="16" r="4" fill="#FFBD2E"/>',
         '  <circle cx="48" cy="16" r="4" fill="#27C93F"/>',
         '  <text x="425" y="21" fill="#C084FC" font-family="\'Courier New\', monospace" font-size="12" '
-        'font-weight="bold" text-anchor="middle">Top_Languages.app</text>',
+        'font-weight="bold" text-anchor="middle">Top_Languages.app ｜ 使用言語</text>',
         '  <g font-family="\'Courier New\', monospace" font-size="13" font-weight="bold">',
     ]
     for i, (name, pct, color) in enumerate(rows):
@@ -199,7 +199,7 @@ def stats_group(stats):
         '  <g transform="translate(364,1) scale(1.27895)">',
         '    <rect width="380" height="280" fill="#181124" stroke="#5B4670" stroke-width="1.5" rx="6" />',
         '    <text x="20" y="35" fill="#C084FC" font-family="\'Courier New\', monospace" font-size="14" '
-        'font-weight="bold">&gt; GITHUB_STATS.APP</text>',
+        'font-weight="bold">GitHub_Stats.app ｜ 統計データ</text>',
         '    <line x1="20" y1="48" x2="360" y2="48" stroke="#3D2B52" stroke-width="1" />',
     ]
     for i, (label, value) in enumerate(rows):

@@ -25,5 +25,5 @@
     </g>
   </g>
   <text x="425" y="30" fill="#A78BFA" font-family="'Courier New', monospace" font-size="13" letter-spacing="1" text-anchor="middle">[ 🍡 SYSTEM: ONLINE ]&#160;|&#160;[ 🎀 STATUS: BUILDING ]&#160;|&#160;[ 🧋 MODE: MACOS ]</text>
-  <path d="M 1 0 H 3 V 1 H 4 V 3 H 3 V 4 H 2 V 5 H 1 V 3 H 0 V 1 H 1 Z" fill="#F0ABFC" transform="translate(742, 17) scale(1.6)" />
+  <path d="M 759 21 h 2 v 8 h -2 z M 756 24 h 8 v 2 h -8 z" fill="#F0ABFC" />
 </svg>

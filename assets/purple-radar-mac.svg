@@ -15,10 +15,8 @@
   <circle cx="24" cy="20" r="5" fill="#FF5F56" stroke="#E0443E" stroke-width="1" />
   <circle cx="40" cy="20" r="5" fill="#FFBD2E" stroke="#DEA123" stroke-width="1" />
   <circle cx="56" cy="20" r="5" fill="#27C93F" stroke="#1AAB29" stroke-width="1" />
-  <text x="225" y="24" fill="#DDD6FE" font-family="'Courier New', monospace" font-size="11" font-weight="bold" text-anchor="middle" letter-spacing="1.5">Skill_Stats.app</text>
-  <g fill="#C084FC" transform="translate(400, 16)">
-    <path d="M 1 0 H 3 V 1 H 4 V 3 H 3 V 4 H 2 V 5 H 1 V 3 H 0 V 1 H 1 Z" transform="scale(1.8)" />
-  </g>
+  <text x="225" y="24" fill="#DDD6FE" font-family="'Courier New', monospace" font-size="11" font-weight="bold" text-anchor="middle" letter-spacing="1.5">Skill_Stats.app ｜ スキル分析</text>
+  <path d="M 405 17 h 2 v 8 h -2 z M 402 20 h 8 v 2 h -8 z" fill="#C084FC" />
   <rect x="20" y="50" width="410" height="380" fill="#0D0B18" stroke="#3D2B52" stroke-width="2" rx="4" />
   <g stroke="#5B4670" stroke-width="1" fill="none" opacity="0.6">
     <polygon points="225,100 320,140 360,235 320,330 225,370 130,330 90,235 130,140" />

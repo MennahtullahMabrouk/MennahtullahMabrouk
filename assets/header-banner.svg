@@ -1,0 +1,43 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="240" viewBox="0 0 800 240" fill="none" role="img" aria-label="Profile window">
+  <rect x="0" y="0" width="800" height="240" fill="#181124" />
+
+  <!-- Outer Window Frame -->
+  <rect x="2" y="2" width="796" height="236" rx="8" fill="#181124" stroke="#5B4670" stroke-width="2"/>
+
+  <!-- Mac Window Header Bar with Japanese -->
+  <path d="M 2 28 L 798 28" stroke="#5B4670" stroke-width="1.5"/>
+  <circle cx="20" cy="15" r="4" fill="#FF5F56"/>
+  <circle cx="34" cy="15" r="4" fill="#FFBD2E"/>
+  <circle cx="48" cy="15" r="4" fill="#27C93F"/>
+  <text x="400" y="19" fill="#C084FC" font-family="'Courier New', monospace" font-size="12" font-weight="bold" text-anchor="middle">Mennahtullah_Desktop.app ｜ プロフィール</text>
+
+  <!-- Title & Subtitle -->
+  <text x="40" y="72" fill="#F0ABFC" font-family="'Courier New', monospace" font-size="22" font-weight="900" letter-spacing="1">MENNAHTULLAH MABROUK</text>
+  <text x="40" y="96" fill="#A855F7" font-family="'Courier New', monospace" font-size="12" font-weight="bold" letter-spacing="2">BIOINFORMATICS &amp; TECH</text>
+
+  <!-- Bio Body Text -->
+  <g fill="#DDD6FE" font-family="'Courier New', monospace" font-size="11">
+    <text x="40" y="130">Bioinformatician in training, tech builder,</text>
+    <text x="40" y="148">and technical creator by habit.</text>
+    <text x="40" y="172">Working with genomics, Python, SQL, dashboards,</text>
+    <text x="40" y="190">and reproducible research workflows.</text>
+  </g>
+
+  <!-- Progress Bar -->
+  <rect x="40" y="206" width="220" height="12" rx="3" fill="#251A38" stroke="#5B4670" stroke-width="1"/>
+  <rect x="42" y="208" width="150" height="8" rx="2" fill="#C084FC"/>
+  <text x="48" y="215" fill="#181124" font-family="'Courier New', monospace" font-size="8" font-weight="bold">RESEARCH 70%</text>
+
+  <!-- CLEAN RETRO PIXEL SPARKLES (Replaces glitchy dots) -->
+  <g fill="#F0ABFC">
+    <!-- Big Sparkle Top Right -->
+    <path d="M 720 50 h 2 v 10 h -2 z M 716 54 h 10 v 2 h -10 z" />
+    <circle cx="721" cy="55" r="1" fill="#FFFFFF"/>
+
+    <!-- Small Sparkle Bottom Right -->
+    <path d="M 670 170 h 2 v 6 h -2 z M 668 172 h 6 v 2 h -6 z" />
+
+    <!-- Cute Tiny Sparkle Near Title -->
+    <path d="M 600 80 h 2 v 6 h -2 z M 598 82 h 6 v 2 h -6 z" opacity="0.6"/>
+  </g>
+</svg>
