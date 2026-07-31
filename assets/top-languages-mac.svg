@@ -24,43 +24,4 @@
     <rect x="200" y="196" width="610" height="10" fill="#231934" rx="3" />
     <rect x="200" y="196" width="12" fill="#72EFDD" height="10" rx="3" />
   </g>
-  <!-- Floating Ghosts (random scatter, away from text/bars) -->
-  <g transform="translate(760, 52)" opacity="0.7">
-    <g>
-      <animateTransform attributeName="transform" type="translate" values="0 0; 0 -3; 0 0" dur="3.8s" repeatCount="indefinite" />
-      <g transform="scale(1.0)">
-        <g fill="#E0AAFF">
-          <rect x="2" y="0" width="8" height="1" />
-          <rect x="1" y="1" width="10" height="1" />
-          <rect x="0" y="2" width="12" height="7" />
-          <rect x="0" y="9" width="4" height="1" />
-          <rect x="5" y="9" width="3" height="1" />
-          <rect x="9" y="9" width="3" height="1" />
-        </g>
-        <g fill="#181124">
-          <rect x="3" y="4" width="2" height="2" />
-          <rect x="8" y="4" width="2" height="2" />
-        </g>
-      </g>
-    </g>
-  </g>
-  <g transform="translate(58, 214)" opacity="0.6">
-    <g>
-      <animateTransform attributeName="transform" type="translate" values="0 0; 0 -3; 0 0" dur="4.6s" begin="0.9s" repeatCount="indefinite" />
-      <g transform="scale(0.8)">
-        <g fill="#E0AAFF">
-          <rect x="2" y="0" width="8" height="1" />
-          <rect x="1" y="1" width="10" height="1" />
-          <rect x="0" y="2" width="12" height="7" />
-          <rect x="0" y="9" width="4" height="1" />
-          <rect x="5" y="9" width="3" height="1" />
-          <rect x="9" y="9" width="3" height="1" />
-        </g>
-        <g fill="#181124">
-          <rect x="3" y="4" width="2" height="2" />
-          <rect x="8" y="4" width="2" height="2" />
-        </g>
-      </g>
-    </g>
-  </g>
 </svg>
