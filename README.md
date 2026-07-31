@@ -29,7 +29,7 @@
 &nbsp;
 <a href="https://www.upwork.com/freelancers/~01237dec759096da5d" target="_blank"><img src="https://raw.githubusercontent.com/MennahtullahMabrouk/MennahtullahMabrouk/main/assets/upwork-app.svg" width="220" alt="Upwork"></a>
 <br><br>
-<img src="https://raw.githubusercontent.com/MennahtullahMabrouk/MennahtullahMabrouk/main/assets/tools-pixel-grid.svg" width="780" alt="Tool Grid">
+<img src="https://raw.githubusercontent.com/MennahtullahMabrouk/MennahtullahMabrouk/main/assets/tools-pixel-grid.svg?v=2" width="780" alt="Tool Grid">
 <br><br>
 <table align="center" width="780" style="border-collapse: collapse; border: none; background-color: #181124;">
 <tr>
@@ -37,15 +37,15 @@
 <img src="https://raw.githubusercontent.com/MennahtullahMabrouk/MennahtullahMabrouk/main/assets/purple-radar-mac.svg" width="370" alt="Skill Stats">
 </td>
 <td align="center" width="50%" style="border: none; background-color: #181124; padding: 6px;">
-<img width="370" src="https://github-readme-stats.vercel.app/api?username=MennahtullahMabrouk&show_icons=true&hide_border=false&border_radius=8&border_color=5B4670&bg_color=181124&title_color=C084FC&icon_color=F0ABFC&text_color=DDD6FE&cache_seconds=1800" alt="GitHub Stats">
+<img src="https://raw.githubusercontent.com/MennahtullahMabrouk/MennahtullahMabrouk/main/assets/github-stats-mac.svg" width="370" alt="GitHub Stats">
 </td>
 </tr>
 <tr>
 <td align="center" width="50%" style="border: none; background-color: #181124; padding: 6px;">
-<img width="370" src="https://github-readme-stats.vercel.app/api/top-langs?username=MennahtullahMabrouk&show_icons=true&locale=en&layout=compact&hide_border=false&border_radius=8&border_color=5B4670&bg_color=181124&title_color=C084FC&text_color=DDD6FE&cache_seconds=1800" alt="Most used languages">
+<img src="https://raw.githubusercontent.com/MennahtullahMabrouk/MennahtullahMabrouk/main/assets/top-languages-mac.svg" width="370" alt="Top Languages">
 </td>
 <td align="center" width="50%" style="border: none; background-color: #181124; padding: 6px;">
-<img src="https://raw.githubusercontent.com/MennahtullahMabrouk/MennahtullahMabrouk/output/github-contribution-grid-snake-dark.svg" width="370" alt="Contribution Snake">
+<img src="https://raw.githubusercontent.com/MennahtullahMabrouk/MennahtullahMabrouk/output/github-contribution-grid-snake-dark.svg?v=2" width="370" alt="Contribution Snake">
 <br><br>
 <sub><code>> every commit feeds the snake.app</code></sub>
 </td>
