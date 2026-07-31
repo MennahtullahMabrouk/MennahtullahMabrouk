@@ -4,7 +4,7 @@
 <br>
 <img src="https://raw.githubusercontent.com/MennahtullahMabrouk/MennahtullahMabrouk/main/assets/game-runner.svg?v=1" width="850" align="middle" alt="Astral Runner Game">
 <br>
-<img src="https://raw.githubusercontent.com/MennahtullahMabrouk/MennahtullahMabrouk/main/assets/purple-sparkle-divider.svg" width="850" align="middle" alt="Pixel sparkles">
+<img src="https://raw.githubusercontent.com/MennahtullahMabrouk/MennahtullahMabrouk/main/assets/purple-sparkle-divider.svg?v=1" width="850" align="middle" alt="Divider">
 <br>
 <a href="https://www.linkedin.com/in/mennahtullahmabrouk/" target="_blank"><img src="https://raw.githubusercontent.com/MennahtullahMabrouk/MennahtullahMabrouk/main/assets/linkedin-app.svg?v=7" width="33.2%" align="middle" alt="LinkedIn"></a><a href="https://scholar.google.com/citations?user=UjpQpnIAAAAJ&hl=en" target="_blank"><img src="https://raw.githubusercontent.com/MennahtullahMabrouk/MennahtullahMabrouk/main/assets/scholar-app.svg?v=7" width="33.2%" align="middle" alt="Google Scholar"></a><a href="https://www.kaggle.com/mennahtullasameh" target="_blank"><img src="https://raw.githubusercontent.com/MennahtullahMabrouk/MennahtullahMabrouk/main/assets/kaggle-app.svg?v=7" width="33.2%" align="middle" alt="Kaggle"></a>
 <br>
