@@ -1,0 +1,31 @@
+name: Bump Game Stage
+
+on:
+  schedule:
+    - cron: "0 0 3 2 *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  bump:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Bump stage number and cache-buster
+        run: python .github/scripts/bump_game_stage.py
+
+      - name: Commit and push
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git config pull.rebase true
+          git add assets/game-runner.svg README.md
+          git diff --cached --quiet || git commit -m "chore: bump game stage"
+          git pull --rebase origin main
+          git push
