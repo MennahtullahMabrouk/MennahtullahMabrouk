@@ -73,7 +73,7 @@
     <text x="20" y="165" fill="#DDD6FE" font-family="'Courier New', monospace" font-size="12">PRs &amp; Issues:</text>
     <text x="360" y="165" fill="#F0ABFC" font-family="'Courier New', monospace" font-size="12" font-weight="bold" text-anchor="end">2</text>
     <text x="20" y="205" fill="#DDD6FE" font-family="'Courier New', monospace" font-size="12">Followers:</text>
-    <text x="360" y="205" fill="#F0ABFC" font-family="'Courier New', monospace" font-size="12" font-weight="bold" text-anchor="end">51</text>
+    <text x="360" y="205" fill="#F0ABFC" font-family="'Courier New', monospace" font-size="12" font-weight="bold" text-anchor="end">52</text>
     <rect x="20" y="235" width="340" height="12" fill="#2D2244" rx="3" />
     <rect x="20" y="235" width="280" height="12" fill="#C084FC" rx="3">
       <animate attributeName="width" values="0;280;280;0" keyTimes="0;0.4;0.6;1" dur="6s" repeatCount="indefinite" />
