@@ -38,6 +38,7 @@
   <!-- macOS Menu Links -->
   <!-- Single Window Title -->
   <text x="400" y="22" fill="#C084FC" font-family="'Courier New', monospace" font-size="12" font-weight="bold" text-anchor="middle">Mennahtullah_Desktop.app ｜ プロフィール</text>
+  <text x="722" y="22" fill="#F0ABFC" font-family="'Courier New', monospace" font-size="12" font-weight="bold" text-anchor="end">🔊</text>
   <text x="765" y="22" fill="#DDD6FE" font-family="'Courier New', monospace" font-size="12" font-weight="bold" text-anchor="end">12<tspan class="colon-blink">:</tspan>00</text>
 
   <!-- Content Section -->
