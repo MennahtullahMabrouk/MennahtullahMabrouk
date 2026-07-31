@@ -35,7 +35,7 @@
       </g>
     </g>
   </g>
-  <text x="425" y="30" fill="#A78BFA" font-family="'Courier New', monospace" font-size="13" letter-spacing="1" text-anchor="middle">[ 🍡 SYSTEM: ONLINE ]&#160;|&#160;[ 🎀 STATUS: BUILDING ]&#160;|&#160;[ 🧋 MODE: MACOS ]</text>
+  <text x="425" y="30" fill="#A78BFA" font-family="'Courier New', monospace" font-size="13" letter-spacing="1" text-anchor="middle">[ 🍡 SYSTEM: ONLINE ]&#160;|&#160;[ ☕ STATUS: BUILDING ]&#160;|&#160;[ 🍡 MODE: MACOS ]</text>
   <g class="star-rot">
     <g class="star-blink">
       <path d="M 760 21 h 1 v 1 h -1 z M 759 22 h 3 v 1 h -3 z M 758 23 h 5 v 1 h -5 z M 757 24 h 7 v 1 h -7 z M 756 25 h 9 v 1 h -9 z M 757 26 h 7 v 1 h -7 z M 758 27 h 5 v 1 h -5 z M 759 28 h 3 v 1 h -3 z M 760 29 h 1 v 1 h -1 z" fill="#F0ABFC" />
