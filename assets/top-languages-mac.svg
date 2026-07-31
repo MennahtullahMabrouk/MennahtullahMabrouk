@@ -10,34 +10,26 @@
     <text x="40" y="68" fill="#DDD6FE">Jupyter Notebook</text>
     <text x="810" y="68" fill="#F0ABFC" text-anchor="end">74%</text>
     <rect x="200" y="76" width="610" height="10" fill="#231934" rx="3" />
-    <rect x="200" y="76" width="451" fill="#E0AAFF" height="10" rx="3" />
-    <rect x="200" y="76" width="70" height="10" fill="#FFFFFF" opacity="0" rx="3">
-      <animate attributeName="opacity" values="0;0.35;0.35;0" keyTimes="0;0.12;0.88;1" dur="2.8s" begin="0.7s" repeatCount="indefinite" />
-      <animateTransform attributeName="transform" type="translate" values="0 0;540 0;0 0" keyTimes="0;0.5;1" dur="2.8s" begin="0.7s" repeatCount="indefinite" />
+    <rect x="200" y="76" width="451" fill="#E0AAFF" height="10" rx="3">
+      <animate attributeName="width" values="0;451;451;0" keyTimes="0;0.4;0.6;1" dur="6s" begin="0s" repeatCount="indefinite" />
     </rect>
     <text x="40" y="108" fill="#DDD6FE">CSS</text>
     <text x="810" y="108" fill="#F0ABFC" text-anchor="end">19%</text>
     <rect x="200" y="116" width="610" height="10" fill="#231934" rx="3" />
-    <rect x="200" y="116" width="116" fill="#C084FC" height="10" rx="3" />
-    <rect x="200" y="116" width="70" height="10" fill="#FFFFFF" opacity="0" rx="3">
-      <animate attributeName="opacity" values="0;0.35;0.35;0" keyTimes="0;0.12;0.88;1" dur="2.8s" begin="1.1s" repeatCount="indefinite" />
-      <animateTransform attributeName="transform" type="translate" values="0 0;540 0;0 0" keyTimes="0;0.5;1" dur="2.8s" begin="1.1s" repeatCount="indefinite" />
+    <rect x="200" y="116" width="116" fill="#C084FC" height="10" rx="3">
+      <animate attributeName="width" values="0;116;116;0" keyTimes="0;0.4;0.6;1" dur="6s" begin="-0.5s" repeatCount="indefinite" />
     </rect>
     <text x="40" y="148" fill="#DDD6FE">Python</text>
     <text x="810" y="148" fill="#F0ABFC" text-anchor="end">3%</text>
     <rect x="200" y="156" width="610" height="10" fill="#231934" rx="3" />
-    <rect x="200" y="156" width="18" fill="#A855F7" height="10" rx="3" />
-    <rect x="200" y="156" width="70" height="10" fill="#FFFFFF" opacity="0" rx="3">
-      <animate attributeName="opacity" values="0;0.35;0.35;0" keyTimes="0;0.12;0.88;1" dur="2.8s" begin="1.5s" repeatCount="indefinite" />
-      <animateTransform attributeName="transform" type="translate" values="0 0;540 0;0 0" keyTimes="0;0.5;1" dur="2.8s" begin="1.5s" repeatCount="indefinite" />
+    <rect x="200" y="156" width="18" fill="#A855F7" height="10" rx="3">
+      <animate attributeName="width" values="0;18;18;0" keyTimes="0;0.4;0.6;1" dur="6s" begin="-1s" repeatCount="indefinite" />
     </rect>
     <text x="40" y="188" fill="#DDD6FE">HTML</text>
     <text x="810" y="188" fill="#F0ABFC" text-anchor="end">2%</text>
     <rect x="200" y="196" width="610" height="10" fill="#231934" rx="3" />
-    <rect x="200" y="196" width="12" fill="#8B5CF6" height="10" rx="3" />
-    <rect x="200" y="196" width="70" height="10" fill="#FFFFFF" opacity="0" rx="3">
-      <animate attributeName="opacity" values="0;0.35;0.35;0" keyTimes="0;0.12;0.88;1" dur="2.8s" begin="1.9s" repeatCount="indefinite" />
-      <animateTransform attributeName="transform" type="translate" values="0 0;540 0;0 0" keyTimes="0;0.5;1" dur="2.8s" begin="1.9s" repeatCount="indefinite" />
+    <rect x="200" y="196" width="12" fill="#8B5CF6" height="10" rx="3">
+      <animate attributeName="width" values="0;12;12;0" keyTimes="0;0.4;0.6;1" dur="6s" begin="-1.5s" repeatCount="indefinite" />
     </rect>
   </g>
 </svg>

@@ -20,11 +20,11 @@
 <br>
 <img src="https://raw.githubusercontent.com/MennahtullahMabrouk/MennahtullahMabrouk/main/assets/chase-divider-4.svg?v=1" width="850" align="middle" alt="Divider">
 <br>
-<img src="https://raw.githubusercontent.com/MennahtullahMabrouk/MennahtullahMabrouk/main/assets/stats-row.svg?v=5" width="850" align="middle" alt="Skill Stats and GitHub Stats">
+<img src="https://raw.githubusercontent.com/MennahtullahMabrouk/MennahtullahMabrouk/main/assets/stats-row.svg?v=6" width="850" align="middle" alt="Skill Stats and GitHub Stats">
 <br>
 <img src="https://raw.githubusercontent.com/MennahtullahMabrouk/MennahtullahMabrouk/main/assets/chase-divider-5.svg?v=1" width="850" align="middle" alt="Divider">
 <br>
-<img src="https://raw.githubusercontent.com/MennahtullahMabrouk/MennahtullahMabrouk/main/assets/top-languages-mac.svg?v=12" width="850" align="middle" alt="Top Languages">
+<img src="https://raw.githubusercontent.com/MennahtullahMabrouk/MennahtullahMabrouk/main/assets/top-languages-mac.svg?v=13" width="850" align="middle" alt="Top Languages">
 <br>
 <img src="https://raw.githubusercontent.com/MennahtullahMabrouk/MennahtullahMabrouk/output/github-contribution-grid-snake-dark.svg?v=3" width="850" align="middle" alt="Contribution Snake">
 <br>
