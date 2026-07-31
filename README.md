@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/MennahtullahMabrouk/MennahtullahMabrouk/main/assets/header-banner.svg?v=9" width="850" align="middle" alt="Profile Window">
+<img src="https://raw.githubusercontent.com/MennahtullahMabrouk/MennahtullahMabrouk/main/assets/header-banner.svg?v=10" width="850" align="middle" alt="Profile Window">
 <br>
 <img src="https://raw.githubusercontent.com/MennahtullahMabrouk/MennahtullahMabrouk/main/assets/purple-sparkle-divider.svg?v=1" width="850" align="middle" alt="Divider">
 <br>

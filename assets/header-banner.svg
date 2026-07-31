@@ -1,4 +1,11 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="800" height="240" viewBox="0 0 800 240" fill="none" role="img" aria-label="Profile window with chibi OC avatar">
+  <style>
+    .colon-blink { animation: colonBlink 1s steps(1) infinite; }
+    @keyframes colonBlink {
+      0%, 49% { opacity: 1; }
+      50%, 100% { opacity: 0; }
+    }
+  </style>
   <rect x="0" y="0" width="800" height="240" fill="#181124" />
 
   <!-- Clean Single-Window Shell -->
@@ -14,30 +21,23 @@
   <circle cx="52" cy="18" r="5" fill="#27C93F"/>
 
   <!-- macOS Menu Links -->
-  <text x="75" y="22" fill="#DDD6FE" font-family="'Courier New', monospace" font-size="12" font-weight="bold">File   Edit   View   Socials   Help</text>
-
   <!-- Single Window Title -->
   <text x="400" y="22" fill="#C084FC" font-family="'Courier New', monospace" font-size="12" font-weight="bold" text-anchor="middle">Mennahtullah_Desktop.app ｜ プロフィール</text>
-  <text x="765" y="22" fill="#DDD6FE" font-family="'Courier New', monospace" font-size="12" font-weight="bold" text-anchor="end">12:00</text>
+  <text x="765" y="22" fill="#DDD6FE" font-family="'Courier New', monospace" font-size="12" font-weight="bold" text-anchor="end">12<tspan class="colon-blink">:</tspan>00</text>
 
   <!-- Content Section -->
   <g transform="translate(40, 62)">
     <!-- Title & Subtitle -->
     <text x="0" y="25" fill="#F0ABFC" font-family="'Courier New', monospace" font-size="22" font-weight="900" letter-spacing="1">MENNAHTULLAH MABROUK</text>
-    <text x="0" y="48" fill="#A855F7" font-family="'Courier New', monospace" font-size="12" font-weight="bold" letter-spacing="2">BIOINFORMATICS &amp; TECH</text>
+    <text x="0" y="48" fill="#A855F7" font-family="'Courier New', monospace" font-size="12" font-weight="bold" letter-spacing="2">BIOINFORMATICS | ANALYTICS ENGINEERCS</text>
 
     <!-- Bio Text -->
     <g fill="#DDD6FE" font-family="'Courier New', monospace" font-size="11">
-      <text x="0" y="80">Bioinformatician in training, tech builder,</text>
-      <text x="0" y="96">and technical creator by habit.</text>
-      <text x="0" y="124">Working with genomics, Python, SQL, dashboards,</text>
-      <text x="0" y="140">and reproducible research workflows.</text>
+      <text x="0" y="80">Bioinformatics graduate bridging computational biology, machine</text>
+      <text x="0" y="96">learning, and software engineering.</text>
+      <text x="0" y="124">Experienced in building production data tools (Streamlit, R Shiny),</text>
+      <text x="0" y="140">fMRI predictive pipelines, and automated reporting systems.</text>
     </g>
-
-    <!-- Progress Bar -->
-    <rect x="0" y="146" width="220" height="12" rx="3" fill="#251A38" stroke="#5B4670" stroke-width="1"/>
-    <rect x="2" y="148" width="150" height="8" rx="2" fill="#C084FC"/>
-    <text x="8" y="155" fill="#181124" font-family="'Courier New', monospace" font-size="8" font-weight="bold">RESEARCH 70%</text>
   </g>
 
   <!-- Ground Shadow Under Avatar -->
