@@ -96,9 +96,10 @@
   <g transform="translate(130, 13)">
     <g class="runner-sprite">
 
-    <!-- Long Back Regal Hair (Flowing Down to Waist) -->
-    <path d="M 12 42 C 4 52, -2 72, -8 96 C 8 98, 18 95, 24 85 C 20 70, 18 52, 16 42 Z" fill="#2E1065"/>
-    <path d="M 14 42 C 8 52, 2 72, -3 93 C 10 96, 20 92, 25 82 Z" fill="#4C1D95"/>
+    <!-- Long Back Regal Hair (Flowing Down to Waist, Sways With Front) -->
+    <g class="queen-hair">
+      <path d="M 16 36 C 10 46, -2 64, -6 92 C 6 96, 16 94, 22 86 C 19 70, 18 54, 18 44 Z" fill="#2E1065"/>
+    </g>
 
     <!-- Prominent Regal Elf Ear -->
     <polygon points="12,54 22,48 22,58" fill="#FCE7F3"/>
@@ -128,16 +129,12 @@
 
     <circle cx="18" cy="69" r="4.5" fill="#581C87"/>
 
-    <!-- FLAWLESS QUEEN SHOULDER HAIR (PARTED FRONT LOCKS) -->
+    <!-- QUEEN HAIR (ONE DARK PURPLE SET, SWAYS TOGETHER WITH BACK) -->
     <g class="queen-hair">
-      <!-- Crown Framing Locks -->
-      <path d="M 18 38 C 26 34, 36 34, 42 40 C 40 44, 38 50, 37 54 C 33 48, 26 46, 18 50 Z" fill="#6B21A8"/>
-      <path d="M 20 36 C 27 33, 35 33, 40 38 C 38 42, 37 46, 36 50 Q 30 44 20 47 Z" fill="#A855F7"/>
-
-      <!-- Thick Strand Draping Over Front Shoulder & Chest -->
-      <path d="M 22 44 C 26 48, 28 60, 27 78 C 22 76, 18 68, 17 56 Z" fill="#7E22CE"/>
-      <path d="M 24 44 C 27 48, 29 58, 28 74 C 25 72, 21 66, 20 56 Z" fill="#A855F7"/>
-      <path d="M 25 46 C 27 50, 28 56, 27 68 C 26 67, 23 62, 22 56 Z" fill="#C084FC"/>
+      <!-- Crown Framing Lock -->
+      <path d="M 18 38 C 26 34, 36 34, 42 40 C 40 44, 38 50, 37 54 C 33 48, 26 46, 18 50 Z" fill="#2E1065"/>
+      <!-- Strand Draping Over Front Shoulder & Chest -->
+      <path d="M 22 44 C 26 48, 28 60, 27 78 C 22 76, 18 68, 17 56 Z" fill="#2E1065"/>
     </g>
 
     <!-- RUNNING / JUMPING LEGS (FRAME 1) -->
