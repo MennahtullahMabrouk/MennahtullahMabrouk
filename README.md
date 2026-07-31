@@ -24,11 +24,7 @@
 <br>
 <img src="https://raw.githubusercontent.com/MennahtullahMabrouk/MennahtullahMabrouk/main/assets/top-languages-mac.svg?v=7" width="850" align="middle" alt="Top Languages">
 <br>
-<img src="https://raw.githubusercontent.com/MennahtullahMabrouk/MennahtullahMabrouk/main/assets/purple-sparkle-divider.svg?v=1" width="850" align="middle" alt="Divider">
-<br>
 <img src="https://raw.githubusercontent.com/MennahtullahMabrouk/MennahtullahMabrouk/output/github-contribution-grid-snake-dark.svg?v=3" width="850" align="middle" alt="Contribution Snake">
-<br>
-<img src="https://raw.githubusercontent.com/MennahtullahMabrouk/MennahtullahMabrouk/main/assets/purple-sparkle-divider.svg?v=1" width="850" align="middle" alt="Divider">
 <br>
 <img src="https://raw.githubusercontent.com/MennahtullahMabrouk/MennahtullahMabrouk/main/assets/status-bar.svg?v=7" width="850" align="middle" alt="System status">
 
