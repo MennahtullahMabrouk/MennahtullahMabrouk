@@ -1,10 +1,8 @@
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/MennahtullahMabrouk/MennahtullahMabrouk/main/assets/mac-pixel-menubar.svg?v=2" width="850" alt="Mac Pixel Menu Bar" style="display: block; margin: 0 auto;">
-
-<table align="center" width="850" style="border-collapse: collapse; border: 2px solid #5B4670; border-top: none; background-color: #181124; margin-top: 0;">
+<div align="center" style="background-color: #181124;">
+<img src="https://raw.githubusercontent.com/MennahtullahMabrouk/MennahtullahMabrouk/main/assets/mac-pixel-menubar.svg?v=3" width="850" alt="Mac Pixel Menu Bar" style="display: block; margin: 0 auto; vertical-align: bottom;">
+<table align="center" width="850" style="border-collapse: collapse; border: 2px solid #5B4670; border-top: none; background-color: #181124; margin-top: 0; margin-bottom: 0;">
 <tr>
-<td align="center" style="background-color: #181124; padding: 12px 12px 12px 12px; border: none;">
+<td align="center" bgcolor="#181124" style="background-color: #181124; padding: 12px; border: none;">
 <img src="https://raw.githubusercontent.com/MennahtullahMabrouk/MennahtullahMabrouk/main/assets/purple-bio-banner.svg" alt="Bio Banner" width="800">
 <br><br>
 <img src="https://raw.githubusercontent.com/MennahtullahMabrouk/MennahtullahMabrouk/main/assets/purple-anime-sparkle.svg" width="35" alt="Pixel sparkle">
@@ -31,20 +29,20 @@
 <br><br>
 <img src="https://raw.githubusercontent.com/MennahtullahMabrouk/MennahtullahMabrouk/main/assets/tools-pixel-grid.svg?v=2" width="780" alt="Tool Grid">
 <br><br>
-<table align="center" width="780" style="border-collapse: collapse; border: none; background-color: #181124;">
+<table align="center" width="780" style="border-collapse: collapse; border: none; background-color: #181124; margin-top: 0; margin-bottom: 0;">
 <tr>
-<td align="center" width="50%" style="border: none; background-color: #181124; padding: 6px;">
+<td align="center" width="50%" bgcolor="#181124" style="border: none; background-color: #181124; padding: 6px;">
 <img src="https://raw.githubusercontent.com/MennahtullahMabrouk/MennahtullahMabrouk/main/assets/purple-radar-mac.svg" width="370" alt="Skill Stats">
 </td>
-<td align="center" width="50%" style="border: none; background-color: #181124; padding: 6px;">
+<td align="center" width="50%" bgcolor="#181124" style="border: none; background-color: #181124; padding: 6px;">
 <img src="https://raw.githubusercontent.com/MennahtullahMabrouk/MennahtullahMabrouk/main/assets/github-stats-mac.svg" width="370" alt="GitHub Stats">
 </td>
 </tr>
 <tr>
-<td align="center" width="50%" style="border: none; background-color: #181124; padding: 6px;">
+<td align="center" width="50%" bgcolor="#181124" style="border: none; background-color: #181124; padding: 6px;">
 <img src="https://raw.githubusercontent.com/MennahtullahMabrouk/MennahtullahMabrouk/main/assets/top-languages-mac.svg" width="370" alt="Top Languages">
 </td>
-<td align="center" width="50%" style="border: none; background-color: #181124; padding: 6px;">
+<td align="center" width="50%" bgcolor="#181124" style="border: none; background-color: #181124; padding: 6px;">
 <img src="https://raw.githubusercontent.com/MennahtullahMabrouk/MennahtullahMabrouk/output/github-contribution-grid-snake-dark.svg?v=2" width="370" alt="Contribution Snake">
 <br><br>
 <sub><code>> every commit feeds the snake.app</code></sub>
@@ -57,5 +55,4 @@
 </td>
 </tr>
 </table>
-
 </div>
