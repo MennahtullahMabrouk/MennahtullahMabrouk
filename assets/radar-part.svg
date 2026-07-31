@@ -18,23 +18,23 @@
   <path d="M 406 17 h 1 v 1 h -1 z M 405 18 h 3 v 1 h -3 z M 404 19 h 5 v 1 h -5 z M 403 20 h 7 v 1 h -7 z M 402 21 h 9 v 1 h -9 z M 403 22 h 7 v 1 h -7 z M 404 23 h 5 v 1 h -5 z M 405 24 h 3 v 1 h -3 z M 406 25 h 1 v 1 h -1 z" fill="#F0ABFC" />
   <rect x="406" y="21" width="1" height="1" fill="#FFFFFF" />
   <rect x="20" y="50" width="410" height="380" fill="#0D0B18" stroke="#3D2B52" stroke-width="2" rx="4" />
-  <g stroke="#5B4670" stroke-width="1" fill="none" opacity="0.6">
-    <polygon points="225,100 320,140 360,235 320,330 225,370 130,330 90,235 130,140" />
-    <polygon points="225,145 287,171 313,235 287,299 225,325 163,299 137,235 163,171" />
-    <polygon points="225,190 255,203 267,235 255,267 225,280 195,267 183,235 195,203" />
-    <line x1="225" y1="235" x2="225" y2="100" />
-    <line x1="225" y1="235" x2="320" y2="140" />
-    <line x1="225" y1="235" x2="360" y2="235" />
-    <line x1="225" y1="235" x2="320" y2="330" />
-    <line x1="225" y1="235" x2="225" y2="370" />
-    <line x1="225" y1="235" x2="130" y2="330" />
-    <line x1="225" y1="235" x2="90" y2="235" />
-    <line x1="225" y1="235" x2="130" y2="140" />
-  </g>
   <g transform="translate(225,235)">
     <g>
-      <animateTransform attributeName="transform" type="scale" values="0.2;1;1;0.2" keyTimes="0;0.4;0.6;1" dur="6s" repeatCount="indefinite" />
+      <animateTransform attributeName="transform" type="scale" values="1;0.2;0.2;1" keyTimes="0;0.4;0.6;1" dur="6s" repeatCount="indefinite" />
       <g transform="translate(-225,-235)">
+        <g stroke="#5B4670" stroke-width="1" fill="none" opacity="0.6">
+          <polygon points="225,100 320,140 360,235 320,330 225,370 130,330 90,235 130,140" />
+          <polygon points="225,145 287,171 313,235 287,299 225,325 163,299 137,235 163,171" />
+          <polygon points="225,190 255,203 267,235 255,267 225,280 195,267 183,235 195,203" />
+          <line x1="225" y1="235" x2="225" y2="100" />
+          <line x1="225" y1="235" x2="320" y2="140" />
+          <line x1="225" y1="235" x2="360" y2="235" />
+          <line x1="225" y1="235" x2="320" y2="330" />
+          <line x1="225" y1="235" x2="225" y2="370" />
+          <line x1="225" y1="235" x2="130" y2="330" />
+          <line x1="225" y1="235" x2="90" y2="235" />
+          <line x1="225" y1="235" x2="130" y2="140" />
+        </g>
         <polygon points="225,110 310,150 345,235 295,305 225,350 145,315 110,235 145,155" fill="url(#radar-fill)" stroke="#C084FC" stroke-width="2" />
         <g fill="#FFFFFF" stroke="#5B4670" stroke-width="1">
           <rect x="222" y="107" width="6" height="6" />
