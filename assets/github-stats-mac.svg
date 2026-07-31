@@ -2,13 +2,13 @@
   <rect width="380" height="280" fill="#181124" stroke="#5B4670" stroke-width="1.5" rx="6" />
   <text x="20" y="35" fill="#C084FC" font-family="'Courier New', monospace" font-size="14" font-weight="bold">GitHub_Stats.app ｜ 統計データ</text>
   <line x1="20" y1="48" x2="360" y2="48" stroke="#3D2B52" stroke-width="1" />
-  <text x="20" y="85" fill="#DDD6FE" font-family="'Courier New', monospace" font-size="12">Total Stars Earned:</text>
+  <text x="20" y="85" fill="#FFFFFF" font-family="'Courier New', monospace" font-size="12" font-weight="bold">Total Stars Earned:</text>
   <text x="360" y="85" fill="#F0ABFC" font-family="'Courier New', monospace" font-size="12" font-weight="bold" text-anchor="end">★ 120+</text>
-  <text x="20" y="125" fill="#DDD6FE" font-family="'Courier New', monospace" font-size="12">Total Commits (2026):</text>
+  <text x="20" y="125" fill="#FFFFFF" font-family="'Courier New', monospace" font-size="12" font-weight="bold">Total Commits (2026):</text>
   <text x="360" y="125" fill="#F0ABFC" font-family="'Courier New', monospace" font-size="12" font-weight="bold" text-anchor="end">850+</text>
-  <text x="20" y="165" fill="#DDD6FE" font-family="'Courier New', monospace" font-size="12">Total PRs &amp; Issues:</text>
+  <text x="20" y="165" fill="#FFFFFF" font-family="'Courier New', monospace" font-size="12" font-weight="bold">Total PRs &amp; Issues:</text>
   <text x="360" y="165" fill="#F0ABFC" font-family="'Courier New', monospace" font-size="12" font-weight="bold" text-anchor="end">140+</text>
-  <text x="20" y="205" fill="#DDD6FE" font-family="'Courier New', monospace" font-size="12">Contributed To:</text>
+  <text x="20" y="205" fill="#FFFFFF" font-family="'Courier New', monospace" font-size="12" font-weight="bold">Contributed To:</text>
   <text x="360" y="205" fill="#F0ABFC" font-family="'Courier New', monospace" font-size="12" font-weight="bold" text-anchor="end">25 Repos</text>
   <rect x="20" y="235" width="340" height="12" fill="#2D2244" rx="3" />
   <rect x="20" y="235" width="280" height="12" fill="#C084FC" rx="3" />

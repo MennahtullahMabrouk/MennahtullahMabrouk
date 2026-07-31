@@ -212,8 +212,8 @@ def stats_group(stats):
     ]
     for i, (label, value) in enumerate(rows):
         y = 85 + 40 * i
-        lines.append(f'    <text x="20" y="{y}" fill="#DDD6FE" font-family="\'Courier New\', monospace" '
-                     f'font-size="12">{label}</text>')
+        lines.append(f'    <text x="20" y="{y}" fill="#FFFFFF" font-family="\'Courier New\', monospace" '
+                     f'font-size="12" font-weight="bold">{label}</text>')
         lines.append(f'    <text x="360" y="{y}" fill="#F0ABFC" font-family="\'Courier New\', monospace" '
                      f'font-size="12" font-weight="bold" text-anchor="end">{value}</text>')
     lines += [
