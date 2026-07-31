@@ -2,6 +2,8 @@
 
 <img src="https://raw.githubusercontent.com/MennahtullahMabrouk/MennahtullahMabrouk/main/assets/mac-pixel-menubar.svg?v=7" width="850" align="middle" alt="Mac Pixel Menu Bar">
 <br>
+<img src="https://raw.githubusercontent.com/MennahtullahMabrouk/MennahtullahMabrouk/main/assets/game-runner.svg?v=1" width="850" align="middle" alt="Astral Runner Game">
+<br>
 <img src="https://raw.githubusercontent.com/MennahtullahMabrouk/MennahtullahMabrouk/main/assets/header-banner.svg" width="850" align="middle" alt="Profile Window">
 <br>
 <img src="https://raw.githubusercontent.com/MennahtullahMabrouk/MennahtullahMabrouk/main/assets/purple-sparkle-divider.svg" width="850" align="middle" alt="Pixel sparkles">

@@ -1,0 +1,160 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="160" viewBox="0 0 800 160" fill="none" role="img" aria-label="Astral Runner endless runner game">
+  <style><![CDATA[
+    /* Continuous Ground & Crystal Scrolling */
+    @keyframes scrollStage {
+      0% { transform: translateX(0); }
+      100% { transform: translateX(-80px); }
+    }
+    .scrolling-ground {
+      animation: scrollStage 0.6s linear infinite;
+    }
+
+    /* Approaching Crystal Obstacle Loop */
+    @keyframes moveObstacle {
+      0% { transform: translateX(820px); }
+      100% { transform: translateX(-40px); }
+    }
+    .obstacle {
+      animation: moveObstacle 2.4s linear infinite;
+    }
+
+    /* Parallax Floating Stars */
+    @keyframes floatStars {
+      0% { transform: translateX(0); }
+      100% { transform: translateX(-800px); }
+    }
+    .star-bg {
+      animation: floatStars 8s linear infinite;
+    }
+
+    /* Full Queen Jump: rises, floats over the crystals, lands */
+    @keyframes queenJump {
+      0%, 48% { transform: translateY(0px); }
+      62%, 82% { transform: translateY(-38px); }
+      94%, 100% { transform: translateY(0px); }
+    }
+    .runner-sprite {
+      animation: queenJump 2.4s cubic-bezier(0.4, 0, 0.2, 1) infinite;
+    }
+
+    /* Leg Striding Animation */
+    @keyframes legSwap1 {
+      0%, 100% { opacity: 1; }
+      50% { opacity: 0; }
+    }
+    @keyframes legSwap2 {
+      0%, 100% { opacity: 0; }
+      50% { opacity: 1; }
+    }
+    .leg-frame-1 { animation: legSwap1 0.25s steps(1) infinite; }
+    .leg-frame-2 { animation: legSwap2 0.25s steps(1) infinite; }
+
+    /* Regal Hair Physics */
+    @keyframes regalHairSway {
+      0%, 100% { transform: rotate(0deg); }
+      50% { transform: rotate(-3deg) translateY(-2px); }
+    }
+    .queen-hair {
+      animation: regalHairSway 0.4s ease-in-out infinite;
+      transform-origin: 25px 45px;
+    }
+  ]]></style>
+
+  <rect x="0" y="0" width="800" height="160" fill="#181124" />
+  <!-- Cyber-Gothic Frame Background -->
+  <rect x="2" y="2" width="796" height="156" rx="8" fill="#181124" stroke="#5B4670" stroke-width="2"/>
+
+  <!-- UI Score Overlay -->
+  <text x="30" y="28" fill="#F0ABFC" font-family="'Courier New', monospace" font-size="11" font-weight="bold">STAGE 1: ASTRAL_RUN.EXE ｜ 開発環境</text>
+  <text x="770" y="28" fill="#C084FC" font-family="'Courier New', monospace" font-size="11" font-weight="bold" text-anchor="end">SCORE 009420</text>
+
+  <!-- Floating Pixel Stars (Parallax Background) -->
+  <g class="star-bg" fill="#E0AAFF" opacity="0.6">
+    <circle cx="100" cy="40" r="1.5" />
+    <circle cx="250" cy="30" r="1" />
+    <circle cx="450" cy="45" r="1.5" />
+    <circle cx="680" cy="35" r="1" />
+    <circle cx="900" cy="40" r="1.5" />
+    <circle cx="1100" cy="30" r="1" />
+    <circle cx="1300" cy="45" r="1.5" />
+    <circle cx="1500" cy="35" r="1" />
+  </g>
+
+  <!-- Scrolling Ground Line -->
+  <g class="scrolling-ground">
+    <line x1="-80" y1="130" x2="880" y2="130" stroke="#5B4670" stroke-width="2" stroke-dasharray="10,10"/>
+    <line x1="-80" y1="132" x2="880" y2="132" stroke="#2D1F47" stroke-width="2"/>
+  </g>
+
+  <!-- OBSTACLE: Approaching Magic Crystals (Dino Spike Style) -->
+  <g class="obstacle">
+    <path d="M 0 130 L 10 102 L 20 130 Z" fill="#C084FC" stroke="#F0ABFC" stroke-width="1"/>
+    <path d="M 14 130 L 22 112 L 30 130 Z" fill="#7E22CE"/>
+  </g>
+
+  <!-- ELF QUEEN RUNNER (JUMPING SPRITE) -->
+  <g transform="translate(130, 13)">
+    <g class="runner-sprite">
+
+    <!-- Long Back Regal Hair (Flowing Down to Waist) -->
+    <path d="M 12 42 C 4 52, -2 72, -8 96 C 8 98, 18 95, 24 85 C 20 70, 18 52, 16 42 Z" fill="#2E1065"/>
+    <path d="M 14 42 C 8 52, 2 72, -3 93 C 10 96, 20 92, 25 82 Z" fill="#4C1D95"/>
+
+    <!-- Prominent Regal Elf Ear -->
+    <polygon points="12,54 22,48 22,58" fill="#FCE7F3"/>
+    <polygon points="10,54 16,51 16,55" fill="#E879F9" opacity="0.6"/>
+
+    <!-- Head & Regal Face Structure -->
+    <rect x="20" y="40" width="18" height="22" fill="#FCE7F3" rx="4"/>
+
+    <!-- Crown / Elven Tiara (Golden/Violet Sparkle) -->
+    <path d="M 22 43 L 38 41 L 36 45 L 22 47 Z" fill="#E0AAFF"/>
+    <polygon points="30,37 33,43 27,43" fill="#F0ABFC"/>
+    <circle cx="30" cy="40" r="1.5" fill="#FFFFFF"/>
+
+    <!-- Oversized Glowing Violet Queen Eye -->
+    <rect x="30" y="48" width="6" height="9" fill="#0F0716" rx="1"/>
+    <rect x="31" y="49" width="4" height="6" fill="#C084FC" rx="1"/>
+    <rect x="31" y="49" width="2" height="2" fill="#FFFFFF"/>
+
+    <!-- High Royal Gothic Collar & Choker -->
+    <path d="M 22 62 L 36 62 L 38 66 L 20 66 Z" fill="#F3E8FF"/>
+    <rect x="23" y="65" width="12" height="2" fill="#000000"/>
+
+    <!-- Queen Gothic Gown / Dress (Elegant Long Silhouettes) -->
+    <path d="M 16 66 L 38 66 L 43 96 L 11 96 Z" fill="#3B0764"/>
+    <rect x="10" y="94" width="34" height="3" fill="#0F0716"/>
+    <rect x="12" y="97" width="30" height="2" fill="#581C87"/>
+
+    <circle cx="18" cy="69" r="4.5" fill="#581C87"/>
+
+    <!-- FLAWLESS QUEEN SHOULDER HAIR (PARTED FRONT LOCKS) -->
+    <g class="queen-hair">
+      <!-- Crown Framing Locks -->
+      <path d="M 18 38 C 26 34, 36 34, 42 40 C 40 44, 38 50, 37 54 C 33 48, 26 46, 18 50 Z" fill="#6B21A8"/>
+      <path d="M 20 36 C 27 33, 35 33, 40 38 C 38 42, 37 46, 36 50 Q 30 44 20 47 Z" fill="#A855F7"/>
+
+      <!-- Thick Strand Draping Over Front Shoulder & Chest -->
+      <path d="M 22 44 C 26 48, 28 60, 27 78 C 22 76, 18 68, 17 56 Z" fill="#7E22CE"/>
+      <path d="M 24 44 C 27 48, 29 58, 28 74 C 25 72, 21 66, 20 56 Z" fill="#A855F7"/>
+      <path d="M 25 46 C 27 50, 28 56, 27 68 C 26 67, 23 62, 22 56 Z" fill="#C084FC"/>
+    </g>
+
+    <!-- RUNNING / JUMPING LEGS (FRAME 1) -->
+    <g class="leg-frame-1">
+      <rect x="20" y="98" width="4" height="18" fill="#FCE7F3"/>
+      <rect x="16" y="112" width="8" height="5" fill="#0F0716" rx="1"/>
+      <rect x="30" y="98" width="4" height="12" fill="#FCE7F3"/>
+      <rect x="30" y="107" width="9" height="5" fill="#0F0716" rx="1"/>
+    </g>
+
+    <!-- RUNNING / JUMPING LEGS (FRAME 2) -->
+    <g class="leg-frame-2">
+      <rect x="20" y="98" width="4" height="12" fill="#FCE7F3"/>
+      <rect x="18" y="107" width="9" height="5" fill="#0F0716" rx="1"/>
+      <rect x="30" y="98" width="4" height="18" fill="#FCE7F3"/>
+      <rect x="28" y="112" width="8" height="5" fill="#0F0716" rx="1"/>
+    </g>
+    </g>
+  </g>
+</svg>
