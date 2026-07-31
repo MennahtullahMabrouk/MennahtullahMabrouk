@@ -39,7 +39,7 @@
   <!-- Single Window Title -->
   <text x="400" y="22" fill="#C084FC" font-family="'Courier New', monospace" font-size="12" font-weight="bold" text-anchor="middle">Mennahtullah_Desktop.app ｜ プロフィール</text>
   <path d="M 762 14 h 1 v 1 h -1 z M 762 15 h 1 v 1 h -1 z M 762 16 h 1 v 1 h -1 z M 762 17 h 1 v 1 h -1 z M 762 18 h 1 v 1 h -1 z M 762 19 h 1 v 1 h -1 z M 764 14 h 1 v 1 h -1 z M 763 15 h 1 v 1 h -1 z M 760 20 h 3 v 1 h -3 z M 759 21 h 4 v 1 h -4 z M 760 22 h 3 v 1 h -3 z" fill="#F0ABFC" />
-  <text x="768" y="19" fill="#F0ABFC" font-family="'Courier New', monospace" font-size="8" font-weight="bold" letter-spacing="1">play me</text>
+  <text x="722" y="19" fill="#F0ABFC" font-family="'Courier New', monospace" font-size="8" font-weight="bold" letter-spacing="1">play me</text>
 
   <!-- Content Section -->
   <g transform="translate(40, 62)">
