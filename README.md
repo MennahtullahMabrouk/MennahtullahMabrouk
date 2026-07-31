@@ -20,7 +20,7 @@
 <br>
 <img src="https://raw.githubusercontent.com/MennahtullahMabrouk/MennahtullahMabrouk/main/assets/chase-divider-4.svg?v=1" width="850" align="middle" alt="Divider">
 <br>
-<img src="https://raw.githubusercontent.com/MennahtullahMabrouk/MennahtullahMabrouk/main/assets/stats-row.svg?v=6" width="850" align="middle" alt="Skill Stats and GitHub Stats">
+<img src="https://raw.githubusercontent.com/MennahtullahMabrouk/MennahtullahMabrouk/main/assets/stats-row.svg?v=7" width="850" align="middle" alt="Skill Stats and GitHub Stats">
 <br>
 <img src="https://raw.githubusercontent.com/MennahtullahMabrouk/MennahtullahMabrouk/main/assets/chase-divider-5.svg?v=1" width="850" align="middle" alt="Divider">
 <br>

@@ -31,16 +31,23 @@
     <line x1="225" y1="235" x2="90" y2="235" />
     <line x1="225" y1="235" x2="130" y2="140" />
   </g>
-  <polygon points="225,110 310,150 345,235 295,305 225,350 145,315 110,235 145,155" fill="url(#radar-fill)" stroke="#C084FC" stroke-width="2" />
-  <g fill="#FFFFFF" stroke="#5B4670" stroke-width="1">
-    <rect x="222" y="107" width="6" height="6" />
-    <rect x="307" y="147" width="6" height="6" />
-    <rect x="342" y="232" width="6" height="6" />
-    <rect x="292" y="302" width="6" height="6" />
-    <rect x="222" y="347" width="6" height="6" />
-    <rect x="142" y="312" width="6" height="6" />
-    <rect x="107" y="232" width="6" height="6" />
-    <rect x="142" y="152" width="6" height="6" />
+  <g transform="translate(225,235)">
+    <g>
+      <animateTransform attributeName="transform" type="scale" values="0.2;1;1;0.2" keyTimes="0;0.4;0.6;1" dur="6s" repeatCount="indefinite" />
+      <g transform="translate(-225,-235)">
+        <polygon points="225,110 310,150 345,235 295,305 225,350 145,315 110,235 145,155" fill="url(#radar-fill)" stroke="#C084FC" stroke-width="2" />
+        <g fill="#FFFFFF" stroke="#5B4670" stroke-width="1">
+          <rect x="222" y="107" width="6" height="6" />
+          <rect x="307" y="147" width="6" height="6" />
+          <rect x="342" y="232" width="6" height="6" />
+          <rect x="292" y="302" width="6" height="6" />
+          <rect x="222" y="347" width="6" height="6" />
+          <rect x="142" y="312" width="6" height="6" />
+          <rect x="107" y="232" width="6" height="6" />
+          <rect x="142" y="152" width="6" height="6" />
+        </g>
+      </g>
+    </g>
   </g>
   <g font-family="'Courier New', monospace" font-size="11" fill="#DDD6FE" font-weight="bold">
     <text x="225" y="85" text-anchor="middle">PYTHON</text>
