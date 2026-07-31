@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 850 60" width="100%" height="100%" shape-rendering="crispEdges" role="img" aria-label="Ghost chase divider">
   <style>
-    .run { animation: travel 30s linear infinite both; animation-delay: 0s; }
+    .run { animation: travel 30s linear infinite both; animation-delay: 15s; }
     @keyframes travel {
       0%   { transform: translateX(0) translateY(0); opacity: 0; }
       2%   { opacity: 1; }
