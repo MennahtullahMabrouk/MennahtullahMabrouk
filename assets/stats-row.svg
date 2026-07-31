@@ -92,7 +92,7 @@
   </g>
   <g transform="translate(330, 346)" opacity="0.65">
     <g>
-      <animateTransform attributeName="transform" type="translate" values="0 0; 0 -3; 0 0" dur="4.4s" begin="1.4s" repeatCount="indefinite" />
+      <animateTransform attributeName="transform" type="translate" values="0 0; 0 -4; 0 0" dur="4.4s" begin="1.4s" repeatCount="indefinite" />
       <g transform="scale(0.8)">
         <g fill="#E0AAFF">
           <rect x="2" y="0" width="8" height="1" />
