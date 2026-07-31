@@ -2,6 +2,7 @@
   <style>
     .twinkle { animation: twinkle var(--dur, 2s) steps(2) infinite; animation-delay: var(--delay, 0s); }
     .float { animation: floaty var(--fdur, 3s) ease-in-out infinite; animation-delay: var(--fdelay, 0s); }
+    .spin { transform-origin: var(--ox) var(--oy); animation: rot var(--rdur, 2.8s) linear infinite; animation-delay: var(--rdelay, 0s); }
     @keyframes twinkle {
       0%, 100% { opacity: 1; }
       50% { opacity: 0.15; }
@@ -10,10 +11,13 @@
       0%, 100% { transform: translateY(0); }
       50% { transform: translateY(-3px); }
     }
+    @keyframes rot {
+      100% { transform: rotate(360deg); }
+    }
   </style>
   <rect x="0" y="0" width="850" height="60" fill="#181124" />
 
-  <g class="float" style="--fdur: 3.2s; --fdelay: 0s;">
+  <g class="spin" style="--ox:60px; --oy:30px; --rdur: 2.6s; --rdelay: 0s;">
     <g class="twinkle" style="--dur: 2.1s; --delay: 0s;" fill="#F0ABFC">
       <path d="M 60 28 L 62 30 L 60 32 L 58 30 Z"/>
       <rect x="61" y="29" width="1" height="1" fill="#FFFFFF"/>
@@ -27,7 +31,7 @@
     </g>
   </g>
 
-  <g class="float" style="--fdur: 3.6s; --fdelay: 1.2s;">
+  <g class="spin" style="--ox:305px; --oy:31px; --rdur: 3.2s; --rdelay: 0.8s;">
     <g class="twinkle" style="--dur: 2.5s; --delay: 0.9s;" fill="#F0ABFC">
       <path d="M 305 28 L 308 31 L 305 34 L 302 31 Z"/>
       <rect x="307" y="30" width="1" height="1" fill="#FFFFFF"/>
@@ -41,7 +45,7 @@
     </g>
   </g>
 
-  <g class="float" style="--fdur: 3.4s; --fdelay: 1.5s;">
+  <g class="spin" style="--ox:545px; --oy:31px; --rdur: 2.4s; --rdelay: 0.5s;">
     <g class="twinkle" style="--dur: 2.3s; --delay: 0.2s;" fill="#F0ABFC">
       <path d="M 545 28 L 548 31 L 545 34 L 542 31 Z"/>
       <rect x="547" y="30" width="1" height="1" fill="#FFFFFF"/>
@@ -55,7 +59,7 @@
     </g>
   </g>
 
-  <g class="float" style="--fdur: 3.1s; --fdelay: 0.1s;">
+  <g class="spin" style="--ox:788px; --oy:32px; --rdur: 3s; --rdelay: 0.2s;">
     <g class="twinkle" style="--dur: 2.7s; --delay: 0.7s;" fill="#F0ABFC">
       <path d="M 788 29 L 791 32 L 788 35 L 785 32 Z"/>
       <rect x="790" y="31" width="1" height="1" fill="#FFFFFF"/>
