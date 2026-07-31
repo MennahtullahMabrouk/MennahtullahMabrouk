@@ -2,11 +2,11 @@
 
 <img src="https://raw.githubusercontent.com/MennahtullahMabrouk/MennahtullahMabrouk/main/assets/header-banner.svg?v=13" width="850" align="middle" alt="Profile Window">
 <br>
-<img src="https://raw.githubusercontent.com/MennahtullahMabrouk/MennahtullahMabrouk/main/assets/chase-divider-1.svg?v=2" width="850" align="middle" alt="Divider">
+<img src="https://raw.githubusercontent.com/MennahtullahMabrouk/MennahtullahMabrouk/main/assets/purple-sparkle-divider.svg?v=5" width="850" align="middle" alt="Divider">
 <br>
 <img src="https://raw.githubusercontent.com/MennahtullahMabrouk/MennahtullahMabrouk/main/assets/game-runner.svg?v=5" width="850" align="middle" alt="Astral Runner Game">
 <br>
-<img src="https://raw.githubusercontent.com/MennahtullahMabrouk/MennahtullahMabrouk/main/assets/chase-divider-2.svg?v=2" width="850" align="middle" alt="Divider">
+<img src="https://raw.githubusercontent.com/MennahtullahMabrouk/MennahtullahMabrouk/main/assets/purple-sparkle-divider.svg?v=5" width="850" align="middle" alt="Divider">
 <br>
 <a href="https://www.linkedin.com/in/mennahtullahmabrouk/" target="_blank"><img src="https://raw.githubusercontent.com/MennahtullahMabrouk/MennahtullahMabrouk/main/assets/linkedin-app.svg?v=9" width="33.2%" align="middle" alt="LinkedIn"></a><a href="https://scholar.google.com/citations?user=UjpQpnIAAAAJ&hl=en" target="_blank"><img src="https://raw.githubusercontent.com/MennahtullahMabrouk/MennahtullahMabrouk/main/assets/scholar-app.svg?v=9" width="33.2%" align="middle" alt="Google Scholar"></a><a href="https://www.kaggle.com/mennahtullasameh" target="_blank"><img src="https://raw.githubusercontent.com/MennahtullahMabrouk/MennahtullahMabrouk/main/assets/kaggle-app.svg?v=9" width="33.2%" align="middle" alt="Kaggle"></a>
 <br>
@@ -14,7 +14,7 @@
 <br>
 <a href="https://open.spotify.com/show/2v8r3V1BWelOrbXFbBIKoF?si=f33deb246e5a4091" target="_blank"><img src="https://raw.githubusercontent.com/MennahtullahMabrouk/MennahtullahMabrouk/main/assets/spotify-app.svg?v=9" width="33.2%" align="middle" alt="Spotify"></a><a href="https://t.me/MennahtullahMabrouk" target="_blank"><img src="https://raw.githubusercontent.com/MennahtullahMabrouk/MennahtullahMabrouk/main/assets/telegram-app.svg?v=9" width="33.2%" align="middle" alt="Telegram"></a><a href="https://www.upwork.com/freelancers/~01237dec759096da5d" target="_blank"><img src="https://raw.githubusercontent.com/MennahtullahMabrouk/MennahtullahMabrouk/main/assets/upwork-app.svg?v=9" width="33.2%" align="middle" alt="Upwork"></a>
 <br>
-<img src="https://raw.githubusercontent.com/MennahtullahMabrouk/MennahtullahMabrouk/main/assets/chase-divider-3.svg?v=2" width="850" align="middle" alt="Divider">
+<img src="https://raw.githubusercontent.com/MennahtullahMabrouk/MennahtullahMabrouk/main/assets/purple-sparkle-divider.svg?v=5" width="850" align="middle" alt="Divider">
 <br>
 <img src="https://raw.githubusercontent.com/MennahtullahMabrouk/MennahtullahMabrouk/main/assets/tools-pixel-grid.svg?v=9" width="850" align="middle" alt="Tool Grid">
 <br>
@@ -30,6 +30,6 @@
 <br>
 <img src="https://raw.githubusercontent.com/MennahtullahMabrouk/MennahtullahMabrouk/main/assets/status-bar.svg?v=11" width="850" align="middle" alt="System status">
 <br>
-<img src="https://raw.githubusercontent.com/MennahtullahMabrouk/MennahtullahMabrouk/main/assets/purple-sparkle-divider.svg?v=5" width="850" align="middle" alt="Divider">
+<img src="https://raw.githubusercontent.com/MennahtullahMabrouk/MennahtullahMabrouk/main/assets/chase-divider-1.svg?v=3" width="850" align="middle" alt="Divider">
 
 </div>

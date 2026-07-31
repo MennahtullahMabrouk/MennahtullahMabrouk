@@ -1,11 +1,14 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 850 60" width="100%" height="100%" shape-rendering="crispEdges" role="img" aria-label="Ghost chase divider">
   <style>
-    .run { animation: runbob 0.5s ease-in-out infinite; }
-    @keyframes runbob {
-      0%, 100% { transform: translateY(0) translateX(0); }
-      25% { transform: translateY(-3px) translateX(2px); }
-      50% { transform: translateY(0) translateX(4px); }
-      75% { transform: translateY(-3px) translateX(2px); }
+    .run { animation: travel 7s linear infinite; }
+    @keyframes travel {
+      0%   { transform: translateX(0) translateY(0); opacity: 0; }
+      10%  { opacity: 1; }
+      25%  { transform: translateX(165px) translateY(-3px); }
+      50%  { transform: translateX(330px) translateY(0); }
+      75%  { transform: translateX(495px) translateY(-3px); }
+      90%  { opacity: 1; }
+      100% { transform: translateX(660px) translateY(0); opacity: 0; }
     }
   </style>
   <rect x="0" y="0" width="850" height="60" fill="#181124" />
