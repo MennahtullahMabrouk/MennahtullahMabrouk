@@ -1,6 +1,7 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 220 44" width="100%" height="100%" shape-rendering="crispEdges" role="img" aria-label="linkedin.app">
   <rect x="0" y="0" width="220" height="44" fill="#181124" />
   <rect x="2" y="2" width="216" height="40" fill="#181124" stroke="#5B4670" stroke-width="1.5" rx="6" />
-  <path d="M 206 17 h 2 v 8 h -2 z M 203 20 h 8 v 2 h -8 z" fill="#F0ABFC" />
+  <path d="M 207 16 h 1 v 1 h -1 z M 206 17 h 3 v 1 h -3 z M 205 18 h 5 v 1 h -5 z M 204 19 h 7 v 1 h -7 z M 203 20 h 9 v 1 h -9 z M 204 21 h 7 v 1 h -7 z M 205 22 h 5 v 1 h -5 z M 206 23 h 3 v 1 h -3 z M 207 24 h 1 v 1 h -1 z" fill="#F0ABFC" />
+  <path d="M 207 20 h 1 v 1 h -1 z" fill="#FFFFFF" />
   <text x="110" y="28" fill="#C084FC" font-family="'Courier New', monospace" font-size="13" font-weight="bold" text-anchor="middle" letter-spacing="1">linkedin.app</text>
 </svg>
