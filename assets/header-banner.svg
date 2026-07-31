@@ -45,7 +45,7 @@
   <g transform="translate(40, 62)">
     <!-- Title & Subtitle -->
     <text x="0" y="25" fill="#F0ABFC" font-family="'Courier New', monospace" font-size="22" font-weight="900" letter-spacing="1">MENNAHTULLAH MABROUK</text>
-    <text x="0" y="48" fill="#A855F7" font-family="'Courier New', monospace" font-size="10" font-weight="bold" letter-spacing="1">Researcher &amp; Analytics Engineer at Interstellar | Published Author | Podcaster</text>
+    <text x="0" y="48" fill="#C084FC" font-family="'Courier New', monospace" font-size="10" font-weight="bold" letter-spacing="1">Researcher &amp; Analytics Engineer at Interstellar | Published Author | Podcaster</text>
 
     <!-- Bio Text -->
     <g fill="#DDD6FE" font-family="'Courier New', monospace" font-size="11">
