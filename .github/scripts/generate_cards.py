@@ -131,7 +131,7 @@ def collect():
             lang_bytes[name] = lang_bytes.get(name, 0) + bytes_count
     total_commits = sum(fetch_author_commits(repo) for repo in repos)
     try:
-        search, _ = api(f"/search/issues?q=author:{GH_USER}+type:pr")
+        search, _ = api(f"/search/issues?q=author:{GH_USER}")
         pr_count = search.get("total_count", 0)
     except urllib.error.HTTPError:
         pr_count = 0
@@ -157,6 +157,7 @@ def top_languages_svg(lang_bytes):
     ranked = sorted(lang_bytes.items(), key=lambda kv: -kv[1])[:5]
     rows = [(name, round(b * 100 / total), lang_color(name, i))
             for i, (name, b) in enumerate(ranked)]
+    rows = [row for row in rows if row[1] >= 1]
     if not rows:
         rows = [("No public code data", 0, "#818CF8")]
     height = 40 * len(rows) + 70
