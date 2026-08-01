@@ -1,5 +1,7 @@
 <div align="center">
 
+<img src="https://raw.githubusercontent.com/MennahtullahMabrouk/MennahtullahMabrouk/main/assets/frame-top.svg" width="850" align="middle" alt="">
+<br>
 <a href="https://cdn.jsdelivr.net/gh/MennahtullahMabrouk/MennahtullahMabrouk@main/assets/assets_maple-leaf-rag.mp3" target="_blank" rel="noopener" title="Maple Leaf Rag (public domain)"><img src="https://raw.githubusercontent.com/MennahtullahMabrouk/MennahtullahMabrouk/main/assets/header-banner.svg?v=19" width="850" align="middle" alt="Profile Window"></a>
 <br>
 <img src="https://raw.githubusercontent.com/MennahtullahMabrouk/MennahtullahMabrouk/main/assets/chase-divider-1.svg?v=4" width="850" align="middle" alt="Divider">
@@ -31,5 +33,7 @@
 <img src="https://raw.githubusercontent.com/MennahtullahMabrouk/MennahtullahMabrouk/main/assets/status-bar.svg?v=13" width="850" align="middle" alt="System status">
 <br>
 <img src="https://raw.githubusercontent.com/MennahtullahMabrouk/MennahtullahMabrouk/main/assets/chase-divider-6.svg?v=1" width="850" align="middle" alt="Divider">
+<br>
+<img src="https://raw.githubusercontent.com/MennahtullahMabrouk/MennahtullahMabrouk/main/assets/frame-bottom.svg" width="850" align="middle" alt="">
 
 </div>
