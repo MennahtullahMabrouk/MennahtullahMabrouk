@@ -1,6 +1,6 @@
 <div align="center">
-<img align="left" src="https://raw.githubusercontent.com/MennahtullahMabrouk/MennahtullahMabrouk/main/assets/frame-left.svg?v=4" width="3.5%" height="2700" alt="">
-<img align="right" src="https://raw.githubusercontent.com/MennahtullahMabrouk/MennahtullahMabrouk/main/assets/frame-right.svg?v=4" width="3.5%" height="2700" alt="">
+<img align="left" src="https://raw.githubusercontent.com/MennahtullahMabrouk/MennahtullahMabrouk/main/assets/frame-left.svg?v=5" width="3.5%" height="2000" alt="">
+<img align="right" src="https://raw.githubusercontent.com/MennahtullahMabrouk/MennahtullahMabrouk/main/assets/frame-right.svg?v=5" width="3.5%" height="2000" alt="">
 <a href="https://cdn.jsdelivr.net/gh/MennahtullahMabrouk/MennahtullahMabrouk@main/assets/assets_maple-leaf-rag.mp3" target="_blank" rel="noopener" title="Maple Leaf Rag (public domain)"><img src="https://raw.githubusercontent.com/MennahtullahMabrouk/MennahtullahMabrouk/main/assets/header-banner.svg?v=19" width="88%" align="middle" alt="Profile Window"></a>
 <br>
 <img src="https://raw.githubusercontent.com/MennahtullahMabrouk/MennahtullahMabrouk/main/assets/chase-divider-1.svg?v=4" width="88%" align="middle" alt="Divider">
