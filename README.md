@@ -1,4 +1,4 @@
-<table width="100%" align="center"><tr><td align="center" width="30"><img src="https://raw.githubusercontent.com/MennahtullahMabrouk/MennahtullahMabrouk/main/assets/frame-left.svg" width="30" height="2000" alt=""></td><td align="center">
+<table width="100%" align="center"><tr><td align="center" width="30"><img src="https://raw.githubusercontent.com/MennahtullahMabrouk/MennahtullahMabrouk/main/assets/frame-left.svg?v=2" width="30" height="2000" alt=""></td><td align="center">
 <a href="https://cdn.jsdelivr.net/gh/MennahtullahMabrouk/MennahtullahMabrouk@main/assets/assets_maple-leaf-rag.mp3" target="_blank" rel="noopener" title="Maple Leaf Rag (public domain)"><img src="https://raw.githubusercontent.com/MennahtullahMabrouk/MennahtullahMabrouk/main/assets/header-banner.svg?v=19" width="850" align="middle" alt="Profile Window"></a>
 <br>
 <img src="https://raw.githubusercontent.com/MennahtullahMabrouk/MennahtullahMabrouk/main/assets/chase-divider-1.svg?v=4" width="850" align="middle" alt="Divider">
@@ -30,4 +30,4 @@
 <img src="https://raw.githubusercontent.com/MennahtullahMabrouk/MennahtullahMabrouk/main/assets/status-bar.svg?v=13" width="850" align="middle" alt="System status">
 <br>
 <img src="https://raw.githubusercontent.com/MennahtullahMabrouk/MennahtullahMabrouk/main/assets/chase-divider-6.svg?v=1" width="850" align="middle" alt="Divider">
-</td><td align="center" width="30"><img src="https://raw.githubusercontent.com/MennahtullahMabrouk/MennahtullahMabrouk/main/assets/frame-right.svg" width="30" height="2000" alt=""></td></tr></table>
+</td><td align="center" width="30"><img src="https://raw.githubusercontent.com/MennahtullahMabrouk/MennahtullahMabrouk/main/assets/frame-right.svg?v=2" width="30" height="2000" alt=""></td></tr></table>
