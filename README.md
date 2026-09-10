@@ -4,7 +4,7 @@
 <br>
 <a href="https://www.instagram.com/itsnonaa.a/" target="_blank" rel="noopener" title="Nonaa — Character Illustrator"><img src="https://raw.githubusercontent.com/MennahtullahMabrouk/MennahtullahMabrouk/main/assets/credits.svg?v=5" width="850" align="middle" alt="Credits"></a>
 <br>
-<a href="https://github.com/MennahtullahMabrouk/MennahtullahMabrouk/blob/main/LICENSE" target="_blank" rel="noopener" title="Read the Artwork License"><img src="https://raw.githubusercontent.com/MennahtullahMabrouk/MennahtullahMabrouk/main/assets/license-link.svg?v=7" width="850" align="middle" alt="Read the Artwork License"></a>
+<a href="https://github.com/MennahtullahMabrouk/MennahtullahMabrouk/blob/main/LICENSE" target="_blank" rel="noopener" title="Read the Artwork License"><img src="https://raw.githubusercontent.com/MennahtullahMabrouk/MennahtullahMabrouk/main/assets/license-link.svg?v=9" width="850" align="middle" alt="Read the Artwork License"></a>
 <br>
 <img src="https://raw.githubusercontent.com/MennahtullahMabrouk/MennahtullahMabrouk/main/assets/chase-divider-1.svg?v=4" width="850" align="middle" alt="Divider">
 <br>
