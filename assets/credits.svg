@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 850 36" width="100%" height="100%" shape-rendering="crispEdges" role="img" aria-label="Credits">
+  <rect x="0" y="0" width="850" height="36" fill="#181124" />
+  <style>
+    .star-blink { animation: starTwinkle 1.8s steps(2) infinite; animation-delay: 0.6s; }
+    @keyframes starTwinkle {
+      0%, 100% { opacity: 1; }
+      50% { opacity: 0.1; }
+    }
+  </style>
+  <rect x="2" y="2" width="846" height="32" fill="#181124" stroke="#5B4670" stroke-width="1.5" rx="6" />
+  <g class="star-blink">
+    <path d="M 833 10 h 1 v 1 h -1 z M 832 11 h 3 v 1 h -3 z M 831 12 h 5 v 1 h -5 z M 830 13 h 7 v 1 h -7 z M 829 14 h 9 v 1 h -9 z M 830 15 h 7 v 1 h -7 z M 831 16 h 5 v 1 h -5 z M 832 17 h 3 v 1 h -3 z M 833 18 h 1 v 1 h -1 z" fill="#F0ABFC" />
+    <path d="M 833 14 h 1 v 1 h -1 z" fill="#FFFFFF" />
+  </g>
+  <g class="star-blink" style="animation-delay: 1.2s">
+    <path d="M 18 10 h 1 v 1 h -1 z M 17 11 h 3 v 1 h -3 z M 16 12 h 5 v 1 h -5 z M 15 13 h 7 v 1 h -7 z M 14 14 h 9 v 1 h -9 z M 15 15 h 7 v 1 h -7 z M 16 16 h 5 v 1 h -5 z M 17 17 h 3 v 1 h -3 z M 18 18 h 1 v 1 h -1 z" fill="#F0ABFC" />
+    <path d="M 18 14 h 1 v 1 h -1 z" fill="#FFFFFF" />
+  </g>
+  <text x="425" y="23" fill="#DDD6FE" font-family="'Courier New', monospace" font-size="12" font-weight="bold" text-anchor="middle" letter-spacing="0.5">
+    <tspan fill="#C084FC">Profile image &amp; header designed by:</tspan>
+    <tspan fill="#F0ABFC"> Mennahtullah Mabrouk </tspan>
+    <tspan fill="#C084FC">· Characters Drawn by:</tspan>
+    <tspan fill="#F0ABFC"> Nonaa</tspan>
+  </text>
+</svg>

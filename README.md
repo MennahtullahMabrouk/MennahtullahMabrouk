@@ -2,7 +2,7 @@
 
 <a href="https://cdn.jsdelivr.net/gh/MennahtullahMabrouk/MennahtullahMabrouk@main/assets/assets_maple-leaf-rag.mp3" target="_blank" rel="noopener" title="Maple Leaf Rag (public domain)"><img src="https://raw.githubusercontent.com/MennahtullahMabrouk/MennahtullahMabrouk/main/assets/header-banner.svg?v=19" width="850" align="middle" alt="Profile Window"></a>
 <br>
-<p align="center" style="background-color:#181124;padding:8px 16px;border-radius:6px;display:inline-block"><sub><b style="color:#C084FC">Profile image &amp; header designed by:</b> <a href="https://github.com/MennahtullahMabrouk" style="color:#F0ABFC">Mennahtullah Mabrouk</a> <b style="color:#C084FC">· Characters Drawn by:</b> <a href="https://www.instagram.com/itsnonaa.a/" style="color:#F0ABFC">Nonaa</a></sub></p>
+<img src="https://raw.githubusercontent.com/MennahtullahMabrouk/MennahtullahMabrouk/main/assets/credits.svg?v=1" width="850" align="middle" alt="Credits">
 <br>
 <img src="https://raw.githubusercontent.com/MennahtullahMabrouk/MennahtullahMabrouk/main/assets/chase-divider-1.svg?v=4" width="850" align="middle" alt="Divider">
 <br>
