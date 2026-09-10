@@ -1,25 +1,21 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 300 36" width="100%" height="100%" shape-rendering="crispEdges" role="img" aria-label="Read the Artwork License">
-  <rect x="0" y="0" width="300" height="36" fill="#181124" />
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 210 36" width="100%" height="100%" shape-rendering="crispEdges" role="img" aria-label="Read the Artwork License">
+  <rect x="0" y="0" width="210" height="36" fill="#181124" />
   <style>
-    .star-blink { animation: starTwinkle 1.8s steps(2) infinite; animation-delay: 0.6s; }
+    .star-blink { animation: starTwinkle 1.8s steps(2) infinite; animation-delay: 1.2s; }
     @keyframes starTwinkle {
       0%, 100% { opacity: 1; }
       50% { opacity: 0.1; }
     }
   </style>
-  <rect x="2" y="2" width="296" height="32" fill="#181124" stroke="#5B4670" stroke-width="1.5" rx="6" />
+  <path d="M 2 2 H 202 M 2 34 H 202 M 202 2 Q 208 2 208 8 L 208 28 Q 208 34 202 34 Z" fill="none" stroke="#5B4670" stroke-width="1.5" />
   <g class="star-blink">
-    <path d="M 283 10 h 1 v 1 h -1 z M 282 11 h 3 v 1 h -3 z M 281 12 h 5 v 1 h -5 z M 280 13 h 7 v 1 h -7 z M 279 14 h 9 v 1 h -9 z M 280 15 h 7 v 1 h -7 z M 281 16 h 5 v 1 h -5 z M 282 17 h 3 v 1 h -3 z M 283 18 h 1 v 1 h -1 z" fill="#F0ABFC" />
-    <path d="M 283 14 h 1 v 1 h -1 z" fill="#FFFFFF" />
+    <path d="M 188 10 h 1 v 1 h -1 z M 187 11 h 3 v 1 h -3 z M 186 12 h 5 v 1 h -5 z M 185 13 h 7 v 1 h -7 z M 184 14 h 9 v 1 h -9 z M 185 15 h 7 v 1 h -7 z M 186 16 h 5 v 1 h -5 z M 187 17 h 3 v 1 h -3 z M 188 18 h 1 v 1 h -1 z" fill="#F0ABFC" />
+    <path d="M 188 14 h 1 v 1 h -1 z" fill="#FFFFFF" />
   </g>
-  <g class="star-blink" style="animation-delay: 1.2s">
-    <path d="M 18 10 h 1 v 1 h -1 z M 17 11 h 3 v 1 h -3 z M 16 12 h 5 v 1 h -5 z M 15 13 h 7 v 1 h -7 z M 14 14 h 9 v 1 h -9 z M 15 15 h 7 v 1 h -7 z M 16 16 h 5 v 1 h -5 z M 17 17 h 3 v 1 h -3 z M 18 18 h 1 v 1 h -1 z" fill="#F0ABFC" />
-    <path d="M 18 14 h 1 v 1 h -1 z" fill="#FFFFFF" />
-  </g>
-  <text x="150" y="23" fill="#DDD6FE" font-family="'Courier New', monospace" font-size="12" font-weight="bold" text-anchor="middle" letter-spacing="0.5">
+  <text x="105" y="23" fill="#DDD6FE" font-family="'Courier New', monospace" font-size="11" font-weight="bold" text-anchor="middle" letter-spacing="0.5">
     <tspan fill="#C084FC">&#169; </tspan>
     <a xlink:href="https://github.com/MennahtullahMabrouk/MennahtullahMabrouk/blob/main/LICENSE" target="_blank" style="cursor:pointer">
-      <tspan fill="#F0ABFC" text-decoration="underline">Read the Artwork License</tspan>
+      <tspan fill="#F0ABFC" text-decoration="underline">Read Artwork License</tspan>
     </a>
   </text>
 </svg>
