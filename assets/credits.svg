@@ -7,7 +7,7 @@
       50% { opacity: 0.1; }
     }
   </style>
-  <path d="M 8 2 H 638 M 8 34 H 638 M 8 34 Q 2 34 2 28 L 2 8 Q 2 2 8 2 Z" fill="none" stroke="#5B4670" stroke-width="1.5" />
+  <path d="M 640 2 H 8 Q 2 2 2 8 L 2 28 Q 2 34 8 34 H 640" fill="none" stroke="#5B4670" stroke-width="1.5" />
   <g class="star-blink">
     <path d="M 18 10 h 1 v 1 h -1 z M 17 11 h 3 v 1 h -3 z M 16 12 h 5 v 1 h -5 z M 15 13 h 7 v 1 h -7 z M 14 14 h 9 v 1 h -9 z M 15 15 h 7 v 1 h -7 z M 16 16 h 5 v 1 h -5 z M 17 17 h 3 v 1 h -3 z M 18 18 h 1 v 1 h -1 z" fill="#F0ABFC" />
     <path d="M 18 14 h 1 v 1 h -1 z" fill="#FFFFFF" />
